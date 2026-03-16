@@ -1,0 +1,154 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║  POWER BI DAX MEASURES — Profit Optimization System         ║
+║  Paste each measure into Modeling > New Measure             ║
+╚══════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────
+PAGE 1 : EXECUTIVE OVERVIEW
+────────────────────────────────────────────────────────────────
+
+[Total Revenue] =
+    SUM(fact_sales[sales])
+
+[Total Profit] =
+    SUM(fact_sales[profit])
+
+[Total Orders] =
+    DISTINCTCOUNT(fact_sales[order_id])
+
+[Avg Profit Margin %] =
+    DIVIDE(SUM(fact_sales[profit]), SUM(fact_sales[sales]), 0) * 100
+
+[Profit Growth MoM %] =
+    VAR CurrentMonthProfit = [Total Profit]
+    VAR PrevMonthProfit =
+        CALCULATE([Total Profit],
+                  DATEADD(dim_calendar[Date], -1, MONTH))
+    RETURN
+        DIVIDE(CurrentMonthProfit - PrevMonthProfit,
+               ABS(PrevMonthProfit), BLANK()) * 100
+
+[Revenue YoY Growth %] =
+    VAR ThisYear = [Total Revenue]
+    VAR LastYear =
+        CALCULATE([Total Revenue],
+                  SAMEPERIODLASTYEAR(dim_calendar[Date]))
+    RETURN DIVIDE(ThisYear - LastYear, LastYear, BLANK()) * 100
+
+[Running Total Revenue] =
+    CALCULATE([Total Revenue],
+              FILTER(ALL(dim_calendar),
+                     dim_calendar[Date] <= MAX(dim_calendar[Date])))
+
+[Avg Order Value] =
+    DIVIDE([Total Revenue], [Total Orders], 0)
+
+[Revenue per Customer] =
+    DIVIDE([Total Revenue],
+           DISTINCTCOUNT(fact_sales[customer_id]), 0)
+
+
+────────────────────────────────────────────────────────────────
+PAGE 2 : CUSTOMER INTELLIGENCE
+────────────────────────────────────────────────────────────────
+
+[Active Customers] =
+    CALCULATE(
+        DISTINCTCOUNT(fact_sales[customer_id]),
+        DATESINPERIOD(dim_calendar[Date],
+                      MAX(dim_calendar[Date]), -90, DAY)
+    )
+
+[New Customers This Period] =
+    COUNTROWS(
+        FILTER(
+            VALUES(fact_sales[customer_id]),
+            CALCULATE(MIN(fact_sales[order_date])) >= MIN(dim_calendar[Date])
+        )
+    )
+
+[Customer Retention Rate %] =
+    VAR ActiveNow =
+        CALCULATE(DISTINCTCOUNT(fact_sales[customer_id]),
+                  DATESINPERIOD(dim_calendar[Date],
+                                MAX(dim_calendar[Date]), -90, DAY))
+    VAR ActivePrev =
+        CALCULATE(DISTINCTCOUNT(fact_sales[customer_id]),
+                  DATESINPERIOD(dim_calendar[Date],
+                                MAX(dim_calendar[Date]), -180, DAY),
+                  NOT DATESINPERIOD(dim_calendar[Date],
+                                    MAX(dim_calendar[Date]), -90, DAY))
+    RETURN DIVIDE(ActiveNow, ActiveNow + ActivePrev, 0) * 100
+
+[Avg CLV] =
+    AVERAGEX(
+        VALUES(dim_customer_enriched[customer_id]),
+        CALCULATE(SUM(fact_sales[profit]))
+    )
+
+[High Risk Churn Customers] =
+    CALCULATE(
+        DISTINCTCOUNT(dim_customer_enriched[customer_id]),
+        dim_customer_enriched[churn_prob] >= 0.7
+    )
+
+[Champions Revenue Share %] =
+    VAR ChampRev =
+        CALCULATE([Total Revenue],
+                  dim_customer_enriched[segment_label] = "Champions")
+    RETURN DIVIDE(ChampRev, [Total Revenue], 0) * 100
+
+[RFM Segment Customer Count] =
+    COUNTROWS(dim_customer_enriched)
+
+
+────────────────────────────────────────────────────────────────
+PAGE 3 : OPERATIONS & RISK
+────────────────────────────────────────────────────────────────
+
+[Avg Ship Days] =
+    AVERAGE(fact_sales[ship_days])
+
+[Return Risk Score] =
+    -- Uses simulated churn_prob as proxy;
+    -- replace with actual return probability when available
+    AVERAGE(dim_customer_enriched[churn_prob])
+
+[Loss-Making Orders] =
+    CALCULATE(COUNTROWS(fact_sales),
+              fact_sales[is_profitable] = 0)
+
+[Loss-Making Order % ] =
+    DIVIDE([Loss-Making Orders], [Total Orders], 0) * 100
+
+[Total Discount Given] =
+    SUMX(fact_sales, fact_sales[sales] * fact_sales[discount])
+
+[Discount to Revenue Ratio %] =
+    DIVIDE([Total Discount Given], [Total Revenue], 0) * 100
+
+[Category Profit Contribution %] =
+    DIVIDE([Total Profit],
+           CALCULATE([Total Profit], ALL(fact_sales[category])),
+           0) * 100
+
+[Inventory Turnover Proxy] =
+    DIVIDE(SUM(fact_sales[quantity]),
+           CALCULATE(SUM(fact_sales[quantity]),
+                     DATEADD(dim_calendar[Date], -1, YEAR)))
+
+
+────────────────────────────────────────────────────────────────
+CONDITIONAL FORMATTING RULES (apply in Format pane)
+────────────────────────────────────────────────────────────────
+
+[Margin Color Flag] =
+    -- Use as background color rule in table visuals
+    -- Green = good,  Amber = ok,  Red = bad
+    IF([Avg Profit Margin %] >= 15, "#06D6A0",
+       IF([Avg Profit Margin %] >= 5, "#FFB703", "#FF3A5C"))
+
+[KPI Trend Arrow] =
+    IF([Profit Growth MoM %] > 0, "▲ " & FORMAT([Profit Growth MoM %],"0.0") & "%",
+                                   "▼ " & FORMAT([Profit Growth MoM %],"0.0") & "%")

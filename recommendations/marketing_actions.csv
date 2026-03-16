@@ -1,0 +1,794 @@
+customer_id,customer_name,segment,recency,frequency,monetary,avg_discount,avg_margin,num_channels,churn_prob,segment_label,recommended_action,priority
+TC-20980,Tamara Chand,Corporate,399,5,8981.323900000001,0.11666666666666665,0.21291666666666664,3,,Champions,VIP loyalty rewards + cross-sell premium products,HIGH
+RB-19360,Raymond Buch,Consumer,96,6,6976.0959,0.09444444444444444,0.20962962962962958,3,0.0027727569,Champions,VIP loyalty rewards + cross-sell premium products,HIGH
+SC-20095,Sanjit Chand,Consumer,349,9,5757.411899999999,0.06363636363636364,0.2630681818181818,3,,Champions,VIP loyalty rewards + cross-sell premium products,HIGH
+HL-15040,Hunter Lopez,Consumer,43,6,5622.4292000000005,0.018181818181818184,0.3140909090909091,3,0.0050945855,Champions,VIP loyalty rewards + cross-sell premium products,HIGH
+AB-10105,Adrian Barton,Consumer,41,10,5444.8055,0.24,-0.08312500000000003,3,,Champions,VIP loyalty rewards + cross-sell premium products,HIGH
+TA-21385,Tom Ashbrook,Home Office,69,4,4703.7883,0.07999999999999999,0.145,3,,Champions,VIP loyalty rewards + cross-sell premium products,HIGH
+CM-12385,Christopher Martinez,Consumer,37,4,3899.8903999999998,0.12,0.179,3,,Champions,VIP loyalty rewards + cross-sell premium products,HIGH
+TB-21400,Tom Boeckenhauer,Consumer,202,7,2798.3689,0.07058823529411766,0.2973529411764706,3,0.9943731,Loyal,Upsell to higher-margin categories (Technology),HIGH
+SR-20740,Steven Roelle,Home Office,196,8,1990.4243999999999,0.03333333333333333,0.35000000000000003,3,0.9952793,Loyal,Upsell to higher-margin categories (Technology),HIGH
+SD-20485,Shirley Daniels,Home Office,200,9,1985.1671999999999,0.10476190476190476,0.20217498110355253,3,0.9931265,Loyal,Upsell to higher-margin categories (Technology),HIGH
+CL-12565,Clay Ludtke,Consumer,284,12,1933.7830999999999,0.1142857142857143,0.24482142857142855,3,0.9945568,Loyal,Upsell to higher-margin categories (Technology),HIGH
+PS-19045,Penelope Sewall,Home Office,236,7,1742.7296999999999,0.0846153846153846,0.22307692307692306,3,0.9935235,Loyal,Upsell to higher-margin categories (Technology),HIGH
+NM-18520,Neoma Murray,Consumer,244,10,788.9525000000001,0.26,0.000277777777777762,3,0.99538666,Loyal,Upsell to higher-margin categories (Technology),HIGH
+AG-10270,Alejandro Grove,Consumer,278,5,732.7399,0.014285714285714287,0.27071428571428574,3,0.99798393,Lost,Win-back campaign: targeted 10% coupon,HIGH
+FH-14350,Fred Harton,Consumer,212,4,706.289,0.10714285714285714,0.21916666666666668,3,0.99667215,Lost,Win-back campaign: targeted 10% coupon,HIGH
+SC-20260,Scott Cohen,Corporate,187,8,671.0033999999999,0.19722222222222222,-0.05892156862745099,3,0.994111,Loyal,Upsell to higher-margin categories (Technology),HIGH
+NP-18685,Nora Pelletier,Home Office,406,6,514.5017,0.18571428571428572,0.18916666666666665,3,0.9956677,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+TB-21280,Toby Braunhardt,Consumer,583,6,490.9567,0.1,0.2633333333333333,3,0.99565154,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+ND-18460,Neil Ducich,Corporate,183,6,443.33680000000004,0.0875,0.2128125,3,0.9944593,Lost,Win-back campaign: targeted 10% coupon,HIGH
+DB-13405,Denny Blanton,Consumer,187,4,438.9092,0.028571428571428574,0.3001785714285714,3,0.99769896,Lost,Win-back campaign: targeted 10% coupon,HIGH
+GR-14560,Georgia Rosenberg,Corporate,1135,2,359.83320000000003,0.0,0.426,3,0.9974343,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+LH-17155,Logan Haushalter,Consumer,385,9,316.5202,0.07894736842105263,0.263172514619883,3,0.99260896,Loyal,Upsell to higher-margin categories (Technology),HIGH
+BV-11245,Benjamin Venier,Corporate,334,5,315.2214,0.09285714285714285,0.259047619047619,3,0.99642783,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+JE-15475,Jeremy Ellison,Consumer,193,6,276.2197,0.18461538461538465,-0.018846153846153887,3,0.99685436,Lost,Win-back campaign: targeted 10% coupon,HIGH
+SH-20635,Stefanie Holloman,Corporate,765,2,260.6258,0.2,0.16249999999999995,2,0.9976642,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+BW-11200,Ben Wallace,Consumer,203,6,246.9973,0.15,0.06588888888888886,3,0.9970311,Lost,Win-back campaign: targeted 10% coupon,HIGH
+MK-18160,Mike Kennedy,Consumer,240,4,227.83380000000002,0.0818181818181818,0.24075757575757573,3,0.9958554,Lost,Win-back campaign: targeted 10% coupon,HIGH
+RE-19450,Richard Eichhorn,Consumer,302,5,209.2294,0.13333333333333333,0.20805555555555555,2,0.9966312,Lost,Win-back campaign: targeted 10% coupon,HIGH
+JG-15805,John Grady,Corporate,223,6,206.1019,0.06666666666666668,0.24000000000000002,2,0.9961707,Lost,Win-back campaign: targeted 10% coupon,HIGH
+PM-18940,Paul MacIntyre,Consumer,386,3,157.8768,0.15,0.10714285714285718,2,0.99831045,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+CS-12130,Chad Sievert,Consumer,489,4,143.8339,0.1142857142857143,0.23785714285714282,3,0.99665266,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+TP-21565,Tracy Poddar,Corporate,350,4,139.22869999999995,0.24,0.012499999999999994,3,0.99745935,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+DH-13675,Duane Huffman,Home Office,776,4,116.667,0.12272727272727274,0.17665775401069517,3,0.99655837,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+TT-21265,Tim Taslimi,Corporate,406,3,93.9162,0.0,0.25,2,0.9981976,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+CM-12445,Chuck Magee,Consumer,436,3,64.4296,0.07777777777777778,0.2675396825396825,3,0.9975037,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+EH-13945,Eric Hoffmann,Consumer,217,8,53.53980000000001,0.29411764705882354,-0.08602941176470592,3,0.99479514,Loyal,Upsell to higher-margin categories (Technology),HIGH
+GP-14740,Guy Phonely,Corporate,765,2,31.837600000000002,0.13999999999999999,0.17599999999999996,2,0.99798834,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+TS-21085,Thais Sissman,Consumer,357,2,-3.3156,0.7,-0.6833333333333333,2,0.9980373,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+SG-20890,Susan Gilcrest,Corporate,226,3,-3.7073,0.4,-0.5015000000000001,1,0.99813676,Lost,Win-back campaign: targeted 10% coupon,HIGH
+SM-20005,Sally Matthias,Consumer,421,4,-26.5927,0.26666666666666666,-0.020000000000000018,2,0.9971943,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+AC-10660,Anna Chung,Consumer,282,5,-28.700399999999995,0.18333333333333335,0.061607142857142895,3,0.9975152,Lost,Win-back campaign: targeted 10% coupon,HIGH
+SG-20470,Sheri Gordon,Consumer,183,8,-119.0105,0.15,0.1032936507936508,3,0.99228454,Loyal,Upsell to higher-margin categories (Technology),HIGH
+HD-14785,Harold Dahlen,Home Office,769,3,-135.87599999999998,0.3,-0.10809523809523812,3,0.9982502,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+PC-19000,Pauline Chand,Home Office,882,2,-184.3364,0.13333333333333333,0.029166666666666674,2,0.9985324,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+AH-10465,Amy Hunt,Consumer,230,5,-196.12009999999998,0.14,0.13237132352941178,3,0.9977315,Lost,Win-back campaign: targeted 10% coupon,HIGH
+PF-19120,Peter Fuller,Consumer,835,4,-614.2943000000001,0.12105263157894738,0.05497076023391811,3,0.9968131,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+PK-18910,Paul Knutson,Home Office,483,2,-798.705,0.3666666666666667,-0.11777777777777776,3,0.9983724,At Risk,Win-back campaign: targeted 10% coupon,HIGH
+KD-16495,Keith Dawkins,Corporate,112,12,3038.6254,0.08750000000000001,0.24519432773109243,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AR-10540,Andy Reiter,Consumer,6,6,2884.6208,0.06666666666666668,0.3844444444444444,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DR-12940,Daniel Raglin,Home Office,50,8,2869.0759999999996,0.15384615384615383,0.03910256410256408,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+NM-18445,Nathan Mautz,Home Office,160,7,2751.6848999999997,0.042857142857142864,0.3260119047619047,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SE-20110,Sanjit Engle,Consumer,9,11,2650.6769,0.1105263157894737,0.19394736842105262,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BS-11365,Bill Shonely,Corporate,558,5,2616.0643999999998,0.011111111111111112,0.26999999999999996,3,,At Risk,Re-engagement email: show personalized deals,LOW
+HM-14860,Harry Marie,Corporate,2,10,2437.9836,0.231,-0.08982422969187676,3,0.0020636998,Loyal,Upsell to higher-margin categories (Technology),LOW
+TS-21370,Todd Sumrall,Corporate,36,6,2371.7144000000003,0.11666666666666667,0.0779567382508559,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CC-12370,Christopher Conant,Consumer,43,5,2177.0493,0.2818181818181818,-0.010757575757575744,3,0.0045723924,Loyal,Upsell to higher-margin categories (Technology),LOW
+JW-15220,Jane Waco,Corporate,42,6,2173.7093999999997,0.07142857142857142,0.2632142857142857,3,0.0027505818,Loyal,Upsell to higher-margin categories (Technology),LOW
+HW-14935,Helen Wasserman,Corporate,117,8,2164.1611,0.045,0.2536071428571428,3,0.002705923,Loyal,Upsell to higher-margin categories (Technology),LOW
+GT-14710,Greg Tran,Consumer,36,11,2163.4269,0.1,0.285628078817734,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LA-16780,Laura Armstrong,Corporate,154,11,2059.1199,0.11538461538461539,0.2276923076923077,3,0.0017494181,Loyal,Upsell to higher-margin categories (Technology),LOW
+FH-14365,Fred Hopkins,Corporate,5,8,2050.2826,0.13846153846153847,0.14444444444444443,3,0.0022501885,Loyal,Upsell to higher-margin categories (Technology),LOW
+BM-11650,Brian Moss,Corporate,33,11,2041.4079,0.08750000000000001,0.2559167833800186,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+PK-19075,Pete Kriz,Consumer,9,12,2038.2676000000001,0.07600000000000001,0.30567142857142854,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AB-10060,Adam Bellavance,Home Office,54,8,2031.5021,0.047058823529411764,0.3372058823529412,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RM-19675,Robert Marley,Home Office,6,5,1902.5438000000001,0.045454545454545456,0.326010101010101,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AD-10180,Alan Dominguez,Home Office,29,8,1869.9294,0.05833333333333333,0.3019345238095238,2,,Loyal,Upsell to higher-margin categories (Technology),LOW
+ME-17320,Maria Etezadi,Home Office,42,10,1859.4695,0.1318181818181818,0.015665584415584383,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MC-17425,Mark Cousins,Corporate,399,5,1802.3903,0.12,0.30624999999999997,3,,At Risk,Re-engagement email: show personalized deals,LOW
+YS-21880,Yana Sorensen,Corporate,9,8,1778.2923,0.05000000000000001,0.23687499999999997,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+KW-16435,Katrina Willman,Consumer,96,5,1756.135,0.11000000000000001,0.11802777777777773,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DM-13015,Darrin Martin,Consumer,57,7,1677.3931,0.22999999999999998,0.04533333333333332,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MW-18235,Mitch Willingham,Corporate,44,2,1665.516,0.06666666666666667,0.2874999999999999,3,,Lost,Standard newsletter + seasonal promotions,LOW
+KF-16285,Karen Ferguson,Home Office,97,7,1660.1386,0.03333333333333334,0.3259722222222222,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DR-12880,Dan Reichenbach,Corporate,3,9,1641.8613,0.13333333333333333,0.18253472222222222,3,0.0016477611,Loyal,Upsell to higher-margin categories (Technology),LOW
+JE-15610,Jim Epp,Corporate,48,7,1623.4019,0.16,0.12958333333333333,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JD-16150,Justin Deggeller,Corporate,41,8,1619.5199,0.05588235294117647,0.17896193771626298,3,0.0024849984,Loyal,Upsell to higher-margin categories (Technology),LOW
+VD-21670,Valerie Dominguez,Consumer,581,6,1617.7874000000002,0.07500000000000001,0.21828124999999998,3,,At Risk,Re-engagement email: show personalized deals,LOW
+RW-19540,Rick Wilson,Corporate,120,7,1586.6273,0.13478260869565217,0.16914251207729467,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JM-15865,John Murray,Consumer,109,7,1574.6163999999999,0.1846153846153846,-0.014093406593406597,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CM-12655,Corinna Mitchell,Home Office,27,6,1572.4585,0.072,0.2433529411764706,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DP-13390,Dennis Pardue,Home Office,358,9,1571.8318,0.18571428571428572,0.023392857142857104,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BF-11170,Ben Ferrer,Home Office,16,11,1538.2127,0.12222222222222222,0.2248148148148148,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+PP-18955,Paul Prost,Home Office,97,10,1495.0854,0.1088235294117647,0.19476307189542483,3,0.0016766071,Loyal,Upsell to higher-margin categories (Technology),LOW
+BE-11335,Bill Eplett,Home Office,119,5,1487.7739000000001,0.022222222222222223,0.3575,3,,Lost,Standard newsletter + seasonal promotions,LOW
+GK-14620,Grace Kelly,Corporate,112,9,1448.5525,0.15714285714285717,0.2244047619047619,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JG-15160,James Galang,Consumer,1,11,1415.6664,0.1111111111111111,0.19333333333333333,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+EH-13765,Edward Hooks,Corporate,135,12,1393.5154,0.07187500000000001,0.2941753472222222,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AC-10450,Amy Cox,Consumer,11,7,1366.0098,0.18888888888888888,0.1322222222222222,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DW-13480,Dianna Wilson,Home Office,217,5,1348.7556,0.03636363636363637,0.29568181818181816,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+EM-14140,Eugene Moren,Home Office,48,6,1319.3655,0.06666666666666668,0.31083333333333335,3,0.0027533942,Loyal,Upsell to higher-margin categories (Technology),LOW
+DM-13345,Denise Monton,Corporate,22,8,1319.0586,0.1,0.2481196581196581,3,0.0017119135,Loyal,Upsell to higher-margin categories (Technology),LOW
+NC-18535,Nick Crebassa,Corporate,6,7,1314.758,0.13666666666666666,0.22065359477124183,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AH-10210,Alan Hwang,Consumer,6,9,1308.5546,0.09230769230769233,0.29961538461538456,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+YC-21895,Yoseph Carroll,Corporate,4,5,1305.629,0.07500000000000001,0.2671875,3,0.00319299,Lost,Standard newsletter + seasonal promotions,LOW
+AH-10690,Anna Häberlin,Corporate,410,12,1298.0166,0.21739130434782608,-0.013985507246376806,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RA-19885,Ruben Ausman,Corporate,43,7,1292.8656,0.04000000000000001,0.361,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+PW-19240,Pierre Wener,Consumer,464,7,1290.354,0.1708333333333333,0.13826622315592904,3,,At Risk,Re-engagement email: show personalized deals,LOW
+RH-19510,Rick Huthwaite,Home Office,467,6,1289.4535,0.03333333333333333,0.2889583333333333,3,,At Risk,Re-engagement email: show personalized deals,LOW
+LC-16885,Lena Creighton,Consumer,16,12,1288.3469,0.1565217391304348,0.1280072463768116,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SC-20725,Steven Cartwright,Consumer,187,11,1276.6513,0.15000000000000002,0.12019230769230768,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JE-15715,Joe Elijah,Consumer,46,10,1262.2926,0.3227272727272727,-0.17289141414141415,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MA-17560,Matt Abelman,Home Office,64,11,1240.2266,0.09411764705882353,0.3029330065359477,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MW-18220,Mitch Webber,Consumer,17,7,1238.422,0.07857142857142858,0.19480158730158728,3,0.0017671292,Loyal,Upsell to higher-margin categories (Technology),LOW
+KH-16690,Kristen Hastings,Corporate,2,7,1227.5091,0.12666666666666665,0.1991111111111111,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JK-15205,Jamie Kunitz,Consumer,61,5,1219.983,0.13076923076923078,0.15628205128205128,3,,Lost,Standard newsletter + seasonal promotions,LOW
+FC-14245,Frank Carlisle,Home Office,70,7,1217.1662000000001,0.1357142857142857,0.20089285714285712,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+NP-18325,Naresj Patel,Consumer,25,6,1208.8890000000001,0.05714285714285715,0.24785714285714286,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RS-19765,Roland Schwarz,Corporate,36,8,1206.3851,0.1142857142857143,0.1894642857142857,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+QJ-19255,Quincy Jones,Corporate,25,9,1203.6768,0.12307692307692308,0.1924145299145299,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SV-20365,Seth Vernon,Consumer,101,10,1199.4242,0.15625,0.1320920138888889,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+HR-14830,Harold Ryan,Corporate,159,7,1196.9504,0.09999999999999999,0.22257936507936504,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DH-13075,Dave Hallsten,Corporate,277,6,1193.7404,0.0782608695652174,0.18630434782608693,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+GH-14425,Gary Hwang,Consumer,50,4,1176.4181,0.19,0.16975,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JK-15640,Jim Kriz,Home Office,180,9,1172.5303,0.10000000000000002,0.3189583333333333,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AJ-10795,Anthony Johnson,Corporate,166,7,1158.7064,0.08333333333333333,0.26387955182072825,3,0.001667591,Loyal,Upsell to higher-margin categories (Technology),LOW
+PO-19180,Philisse Overcash,Home Office,160,9,1155.4331,0.10555555555555557,0.19626984126984126,3,0.0016033205,Loyal,Upsell to higher-margin categories (Technology),LOW
+CA-11965,Carol Adams,Corporate,96,6,1143.3817,0.11200000000000002,0.2816176470588235,3,0.002324581,Loyal,Upsell to higher-margin categories (Technology),LOW
+BD-11500,Bradley Drucker,Consumer,35,6,1142.1225,0.135,0.10626470588235297,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+GB-14575,Giulietta Baptist,Consumer,13,5,1135.8393,0.037500000000000006,0.3178125,3,,Lost,Standard newsletter + seasonal promotions,LOW
+TP-21130,Theone Pippenger,Consumer,8,9,1129.1261,0.08750000000000001,0.09453124999999997,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TT-21460,Tonja Turnell,Home Office,12,7,1124.4999,0.1285714285714286,0.1846428571428571,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+IL-15100,Ivan Liston,Consumer,142,7,1121.937,0.07142857142857142,0.28035714285714286,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+KD-16270,Karen Daniels,Consumer,484,5,1107.6952000000003,0.1875,0.00645833333333334,3,,At Risk,Re-engagement email: show personalized deals,LOW
+BD-11320,Bill Donatelli,Consumer,33,12,1094.5037,0.07894736842105263,0.24323308270676688,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+GZ-14470,Gary Zandusky,Consumer,7,9,1087.7539,0.07857142857142858,0.2950510204081632,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AM-10705,Anne McFarland,Consumer,162,8,1085.7326,0.06363636363636363,0.24562229437229435,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+FH-14275,Frank Hawley,Corporate,37,10,1073.2676,0.1285714285714286,0.2374206349206349,3,0.0017761269,Loyal,Upsell to higher-margin categories (Technology),LOW
+JF-15565,Jill Fjeld,Consumer,54,8,1073.2088,0.17500000000000002,0.16185763888888888,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MJ-17740,Max Jones,Consumer,22,7,1054.5529000000001,0.21333333333333335,0.12372222222222222,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JD-15895,Jonathan Doherty,Corporate,394,11,1050.2667999999999,0.075,0.25157118055555555,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CB-12535,Claudia Bergmann,Corporate,197,8,1049.5601,0.05,0.3136764705882353,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+NW-18400,Natalie Webber,Consumer,172,7,1023.123,0.21363636363636365,-0.004545454545454539,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BB-11545,Brenda Bowman,Corporate,28,9,1015.0749999999999,0.195,-0.12601785714285715,3,0.0021781672,Loyal,Upsell to higher-margin categories (Technology),LOW
+SC-20050,Sample Company A,Home Office,40,9,1011.7443,0.18666666666666668,0.025333333333333326,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+ES-14020,Erica Smith,Consumer,40,5,1003.2935,0.125,0.23281249999999998,3,,Lost,Standard newsletter + seasonal promotions,LOW
+IM-15055,Ionia McGrath,Consumer,409,3,975.7701,0.1,0.3787499999999999,3,,At Risk,Re-engagement email: show personalized deals,LOW
+AT-10735,Annie Thurman,Consumer,13,10,974.107,0.08750000000000001,0.23390625,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+KM-16375,Katherine Murray,Home Office,56,8,973.7901999999999,0.13999999999999999,0.16310714285714284,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+HK-14890,Heather Kirkland,Corporate,151,8,956.9451,0.21333333333333335,-0.009833333333333357,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DK-12895,Dana Kaydos,Consumer,45,5,937.6496,0.08000000000000002,0.2338333333333333,3,,Lost,Standard newsletter + seasonal promotions,LOW
+BW-11110,Bart Watters,Corporate,121,8,921.2574,0.1411764705882353,0.16552287581699343,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SB-20185,Sarah Brown,Consumer,188,6,885.4623999999999,0.1416666666666667,0.1987202380952381,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+DK-12835,Damala Kotsonis,Corporate,21,12,881.1228000000001,0.17777777777777778,0.16045414462081128,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AI-10855,Arianne Irving,Consumer,13,10,867.7271000000001,0.07222222222222223,0.31220238095238095,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TS-21205,Thomas Seio,Corporate,198,7,862.8877,0.15789473684210525,0.05824561403508771,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CJ-12010,Caroline Jumper,Consumer,189,8,858.7414,0.1885,0.08622205245734657,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AA-10645,Anna Andreadi,Consumer,55,6,857.8033,0.06388888888888888,0.2441425459072518,3,0.003360278,Lost,Standard newsletter + seasonal promotions,LOW
+CC-12685,Craig Carroll,Consumer,799,4,850.1591,0.25,-0.00777777777777781,3,,At Risk,Re-engagement email: show personalized deals,LOW
+KC-16255,Karen Carlisle,Corporate,407,6,846.1217,0.02,0.359,3,,At Risk,Re-engagement email: show personalized deals,LOW
+MS-17365,Maribeth Schnelling,Consumer,273,10,844.9354999999998,0.16041666666666668,0.07363902505446619,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DB-13270,Deborah Brumfield,Home Office,53,8,841.8263999999999,0.2076923076923077,-0.06390109890109893,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+GA-14515,George Ashbrook,Consumer,149,8,840.899,0.0642857142857143,0.3086706349206349,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LW-17215,Luke Weiss,Consumer,21,7,837.2411,0.16666666666666666,0.11040740740740741,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RD-19660,Robert Dilbeck,Home Office,114,5,835.772,0.08,0.17249999999999996,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CS-12355,Christine Sundaresam,Consumer,6,11,831.9432,0.08181818181818182,0.2919318181818182,3,0.0015207777,Loyal,Upsell to higher-margin categories (Technology),LOW
+TB-21175,Thomas Boland,Corporate,58,4,829.1635,0.09090909090909091,0.2334090909090909,3,,Lost,Standard newsletter + seasonal promotions,LOW
+GZ-14545,George Zrebassa,Corporate,157,4,828.661,0.04,0.271,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+KL-16645,Ken Lonsdale,Consumer,47,12,806.855,0.19999999999999998,-0.03256704980842912,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+HG-15025,Hunter Glantz,Consumer,6,7,804.6113,0.17272727272727273,-0.00020202020202025441,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+PW-19030,Pauline Webber,Corporate,46,10,803.8169,0.038461538461538464,0.2958974358974359,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BH-11710,Brosina Hoffman,Consumer,23,8,802.7898,0.18333333333333335,0.11754464285714285,3,0.0033629762,Loyal,Upsell to higher-margin categories (Technology),LOW
+SW-20455,Shaun Weien,Consumer,162,7,793.6548,0.1111111111111111,0.31166666666666665,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+GM-14455,Gary Mitchum,Home Office,16,6,793.2814000000001,0.16666666666666666,0.1703472222222222,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JE-16165,Justin Ellison,Corporate,20,3,789.6476,0.028571428571428574,0.31607142857142856,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MZ-17515,Mary Zewe,Corporate,282,6,787.7503,0.27999999999999997,-0.22175000000000003,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+JL-15850,John Lucas,Consumer,614,6,779.9046,0.23636363636363636,0.08371212121212118,3,,At Risk,Re-engagement email: show personalized deals,LOW
+KB-16240,Karen Bern,Corporate,4,7,763.9076,0.15,0.125,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SU-20665,Stephanie Ulpright,Home Office,20,7,763.4719,0.13333333333333333,0.22593253968253968,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+NH-18610,Nicole Hansen,Corporate,189,7,760.1666,0.05454545454545456,0.30818181818181817,2,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JP-15520,Jeremy Pistek,Consumer,8,7,757.1802,0.059375000000000004,0.26934742647058824,3,0.002274389,Loyal,Upsell to higher-margin categories (Technology),LOW
+BE-11410,Bobby Elias,Consumer,98,5,755.9150999999999,0.16,0.346,2,,Lost,Standard newsletter + seasonal promotions,LOW
+JM-16195,Justin MacKendrick,Consumer,57,10,754.1144,0.06315789473684212,0.31394736842105264,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TT-21070,Ted Trevino,Consumer,31,7,751.9567,0.1142857142857143,0.2833928571428571,3,0.0017088586,Loyal,Upsell to higher-margin categories (Technology),LOW
+JK-15625,Jim Karlsson,Consumer,61,7,750.9485,0.11666666666666668,0.19937499999999997,3,0.0016758977,Loyal,Upsell to higher-margin categories (Technology),LOW
+KM-16720,Kunst Miller,Consumer,28,8,745.7685,0.08928571428571429,0.24456632653061222,3,0.0016820495,Loyal,Upsell to higher-margin categories (Technology),LOW
+CS-12250,Chris Selesnick,Corporate,26,12,738.3626,0.05714285714285715,0.3483928571428571,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TW-21025,Tamara Willingham,Home Office,64,7,737.3905,0.10000000000000002,0.22520833333333332,3,0.001781779,Loyal,Upsell to higher-margin categories (Technology),LOW
+RD-19585,Rob Dowd,Consumer,180,10,734.5158,0.03157894736842106,0.3359210526315789,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DJ-13630,Doug Jacobs,Consumer,12,3,731.5644,0.0625,0.25621527777777775,2,,Lost,Standard newsletter + seasonal promotions,LOW
+KH-16630,Ken Heidel,Corporate,58,9,727.3786,0.10588235294117647,0.26294117647058823,3,0.0017182783,Loyal,Upsell to higher-margin categories (Technology),LOW
+RR-19525,Rick Reed,Corporate,170,6,721.6826,0.06000000000000001,0.29524999999999996,3,0.003067958,Lost,Dormant reactivation: survey + discount offer,LOW
+AS-10225,Alan Schoenberger,Corporate,22,5,719.7751000000001,0.06153846153846154,0.2692307692307692,3,,Lost,Standard newsletter + seasonal promotions,LOW
+WB-21850,William Brown,Consumer,20,11,714.3311,0.2054054054054054,0.0185135135135135,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+FC-14335,Fred Chung,Corporate,184,7,714.2926,0.16,0.21075,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RF-19735,Roland Fjeld,Consumer,89,7,711.6168,0.014285714285714287,0.3835714285714285,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+KC-16540,Kelly Collister,Consumer,97,4,709.4219,0.2,-0.1385,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RW-19690,Robert Waldorf,Consumer,79,5,707.5503,0.07333333333333333,0.23166666666666663,3,0.0027760747,Lost,Standard newsletter + seasonal promotions,LOW
+RW-19630,Rob Williams,Corporate,89,9,698.8325,0.1375,0.08765624999999998,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MC-17845,Michael Chen,Consumer,1,7,698.4174,0.09999999999999999,0.26857142857142857,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+ML-17395,Marina Lichtenstein,Corporate,69,9,684.9162,0.17250000000000001,0.11224754901960783,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JG-15115,Jack Garza,Consumer,758,3,684.1911,0.24285714285714288,0.04619047619047619,3,,At Risk,Re-engagement email: show personalized deals,LOW
+PJ-19015,Pauline Johnson,Consumer,134,7,682.9979000000001,0.08,0.25949999999999995,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+EM-13825,Elizabeth Moffitt,Corporate,55,8,682.5541999999999,0.0625,0.2928125,3,0.0022195608,Loyal,Upsell to higher-margin categories (Technology),LOW
+TG-21310,Toby Gnade,Consumer,337,5,682.1704,0.2111111111111111,0.05944444444444444,3,,At Risk,Re-engagement email: show personalized deals,LOW
+ED-13885,Emily Ducich,Home Office,135,8,670.4435000000001,0.21428571428571427,-0.08089002267573699,2,0.0018736852,Loyal,Upsell to higher-margin categories (Technology),LOW
+LW-16990,Lindsay Williams,Corporate,33,6,662.8339000000001,0.10909090909090911,0.25909090909090904,3,,Lost,Standard newsletter + seasonal promotions,LOW
+EB-13840,Ellis Ballard,Corporate,90,5,656.1988,0.125,0.1859375,3,,Lost,Standard newsletter + seasonal promotions,LOW
+KH-16510,Keith Herrera,Consumer,22,7,656.1162,0.10869565217391304,0.17194373401534527,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BP-11155,Becky Pak,Consumer,89,6,647.3847000000001,0.0818181818181818,0.2633333333333333,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RB-19465,Rick Bensley,Home Office,9,12,640.5466,0.13478260869565217,0.16640269151138715,3,0.0016463528,Loyal,Upsell to higher-margin categories (Technology),LOW
+MP-17965,Michael Paige,Corporate,72,9,638.1563,0.255,-0.13014880952380953,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JF-15415,Jennifer Ferguson,Consumer,2,6,635.6376,0.07142857142857142,0.29839285714285707,3,,Lost,Standard newsletter + seasonal promotions,LOW
+KM-16225,Kalyca Meade,Corporate,14,6,635.1057000000001,0.021052631578947368,0.3435526315789474,3,,Lost,Standard newsletter + seasonal promotions,LOW
+BD-11605,Brian Dahlen,Consumer,97,7,634.8463,0.0725,0.28871323529411763,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RF-19345,Randy Ferguson,Corporate,390,8,633.7072000000001,0.1375,0.14817708333333335,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RS-19420,Ricardo Sperren,Corporate,76,5,633.4513999999999,0.0,0.3244444444444444,3,,Lost,Standard newsletter + seasonal promotions,LOW
+NP-18700,Nora Preis,Consumer,138,7,631.2282,0.19615384615384618,-0.011892911010558073,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+XP-21865,Xylona Preis,Consumer,43,11,621.23,0.04642857142857143,0.3194742063492063,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SC-20695,Steve Chapman,Corporate,89,10,611.8291,0.15714285714285717,-0.11285714285714284,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SA-20830,Sue Ann Reed,Consumer,63,10,610.1496000000001,0.19285714285714284,0.1761111111111111,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TC-21295,Toby Carlisle,Consumer,27,8,606.3727,0.13125,0.14140624999999998,2,0.002388927,Loyal,Upsell to higher-margin categories (Technology),LOW
+MP-17470,Mark Packer,Home Office,719,7,600.2873,0.12142857142857144,0.2623979591836734,3,,At Risk,Re-engagement email: show personalized deals,LOW
+RP-19855,Roy Phan,Corporate,28,8,594.5868,0.13333333333333333,0.1141111111111111,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JL-15505,Jeremy Lonsdale,Consumer,49,6,591.7163,0.07058823529411766,0.28911764705882353,3,,Lost,Standard newsletter + seasonal promotions,LOW
+PF-19225,Phillip Flathmann,Consumer,114,5,591.3118000000001,0.06000000000000001,0.27675,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JK-16090,Juliana Krohn,Consumer,28,3,586.6625,0.19999999999999998,-0.08833333333333333,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SM-20950,Suzanne McNair,Corporate,25,12,581.5741999999999,0.1272727272727273,0.19051767676767675,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JO-15145,Jack O'Briant,Corporate,57,9,581.4045,0.07307692307692308,0.22859728506787327,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+NC-18340,Nat Carroll,Consumer,224,5,580.3075,0.0411764705882353,0.29406862745098034,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+KB-16585,Ken Black,Corporate,230,12,579.3551,0.10869565217391304,0.22717391304347825,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AP-10915,Arthur Prichep,Consumer,98,10,579.3113,0.09354838709677421,0.23924731182795697,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JF-15190,Jamie Frazer,Consumer,65,7,575.1259,0.12105263157894736,0.22543859649122808,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TM-21010,Tamara Manning,Consumer,103,8,573.3013,0.05263157894736842,0.2538157894736842,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SG-20080,Sandra Glassco,Consumer,8,3,570.438,0.06818181818181818,0.2713235294117647,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SP-20860,Sung Pak,Corporate,79,10,566.7226,0.20833333333333334,0.07270833333333333,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JS-15880,John Stevenson,Consumer,534,5,564.9798000000001,0.14666666666666667,0.15763071895424835,3,,At Risk,Re-engagement email: show personalized deals,LOW
+RH-19495,Rick Hansen,Consumer,32,5,563.7877,0.1,0.33791666666666664,2,,Lost,Standard newsletter + seasonal promotions,LOW
+DP-13105,Dave Poirier,Corporate,6,8,563.1761,0.1142857142857143,0.26857142857142857,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DG-13300,Deirdre Greer,Corporate,32,5,562.7761,0.1,0.22593749999999999,3,,Lost,Standard newsletter + seasonal promotions,LOW
+LL-16840,Lauren Leatherbury,Consumer,249,6,560.0078,0.016666666666666666,0.35041666666666665,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+SH-19975,Sally Hughsby,Corporate,29,13,558.4739999999999,0.13620689655172413,0.1598123732251521,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LD-17005,Lisa DeCherney,Consumer,414,4,557.1714,0.028571428571428574,0.37142857142857144,3,,At Risk,Re-engagement email: show personalized deals,LOW
+RA-19285,Ralph Arnett,Consumer,5,9,546.0882,0.1647058823529412,0.12073529411764705,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DN-13690,Duane Noonan,Consumer,217,7,540.5405000000001,0.018181818181818184,0.29886363636363633,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SF-20965,Sylvia Foulston,Corporate,48,9,539.9352,0.2705882352941177,-0.06354575163398694,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+KD-16615,Ken Dana,Corporate,289,5,539.7219,0.1076923076923077,0.29634615384615387,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+DK-13090,Dave Kipp,Consumer,42,7,536.3935,0.13846153846153847,0.18988095238095237,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LR-16915,Lena Radford,Consumer,26,6,535.4764,0.17500000000000002,0.09765624999999999,3,,Lost,Standard newsletter + seasonal promotions,LOW
+KH-16360,Katherine Hughes,Consumer,1,6,528.2051,0.15,0.1220408163265306,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SL-20155,Sara Luxemburg,Home Office,70,7,527.9715,0.17777777777777778,0.016944444444444436,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+PM-19135,Peter McVee,Home Office,51,4,526.7537,0.1285714285714286,0.22,2,0.002786858,Lost,Standard newsletter + seasonal promotions,LOW
+LH-16900,Lena Hernandez,Consumer,21,9,526.0727,0.12666666666666665,0.16666666666666663,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BF-11215,Benjamin Farhat,Home Office,65,4,523.2133,0.05,0.34125,2,,Lost,Standard newsletter + seasonal promotions,LOW
+AJ-10945,Ashley Jarboe,Consumer,85,7,521.1351999999999,0.04,0.27649999999999997,2,,Loyal,Upsell to higher-margin categories (Technology),LOW
+FA-14230,Frank Atkinson,Corporate,97,7,520.5229,0.25882352941176473,0.07240196078431371,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+IM-15070,Irene Maddox,Consumer,390,7,514.6527,0.16666666666666666,0.06242063492063489,3,,At Risk,Re-engagement email: show personalized deals,LOW
+NP-18670,Nora Paige,Consumer,58,5,514.6002,0.02,0.27625,3,0.0040584086,Lost,Standard newsletter + seasonal promotions,LOW
+VM-21685,Valerie Mitchum,Home Office,54,7,513.5269,0.10000000000000002,0.21208333333333332,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MT-17815,Meg Tillman,Consumer,49,6,509.0068,0.12999999999999998,0.16424999999999998,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JC-15385,Jenna Caffey,Consumer,175,1,502.92440000000005,0.05,0.384375,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+JM-15265,Janet Molinari,Corporate,37,5,502.6143,0.13846153846153847,0.06230769230769228,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CK-12595,Clytie Kelty,Consumer,43,11,497.70980000000003,0.184,0.08666190476190475,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+EN-13780,Edward Nazzal,Consumer,287,4,496.1131,0.044444444444444446,0.24472222222222217,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+AR-10825,Anthony Rawles,Corporate,58,8,494.83519999999993,0.07692307692307693,0.21243284493284492,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CV-12295,Christina VanderZanden,Consumer,254,5,493.0861,0.07692307692307693,0.2969230769230769,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+RL-19615,Rob Lucas,Consumer,121,8,488.14840000000004,0.21875,0.07612978524743229,3,0.0023726986,Loyal,Upsell to higher-margin categories (Technology),LOW
+SV-20785,Stewart Visinsky,Consumer,320,9,485.0272,0.184,0.0947190476190476,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MH-17455,Mark Hamilton,Consumer,85,8,484.77330000000006,0.16363636363636364,0.18446969696969695,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DJ-13420,Denny Joy,Corporate,637,4,483.03499999999997,0.0,0.29799999999999993,3,,At Risk,Re-engagement email: show personalized deals,LOW
+SN-20710,Steve Nguyen,Home Office,79,7,481.74989999999997,0.1168421052631579,0.22986731534719151,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RD-19480,Rick Duston,Consumer,72,8,480.594,0.10666666666666667,0.26099999999999995,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RB-19435,Richard Bierner,Consumer,19,8,477.23990000000003,0.1625,0.025572916666666643,3,0.0013964562,Loyal,Upsell to higher-margin categories (Technology),LOW
+MH-18025,Michelle Huthwaite,Consumer,49,5,476.9032,0.13,0.04691666666666663,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DB-13060,Dave Brooks,Consumer,16,7,473.0272,0.1846153846153846,0.02942307692307692,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RP-19390,Resi Pölking,Consumer,33,12,465.25030000000015,0.14800000000000002,0.12386666666666667,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DE-13255,Deanra Eno,Home Office,719,5,464.47139999999996,0.1111111111111111,0.21490740740740738,3,,At Risk,Re-engagement email: show personalized deals,LOW
+SG-20605,Speros Goranitis,Consumer,108,6,463.269,0.09230769230769233,0.23288461538461533,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MC-17275,Marc Crier,Consumer,76,8,461.0014,0.13076923076923078,0.13025641025641027,3,0.001359527,Loyal,Upsell to higher-margin categories (Technology),LOW
+MF-18250,Monica Federle,Corporate,7,5,456.86080000000004,0.06666666666666667,0.291875,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RD-19900,Ruben Dartt,Consumer,114,9,455.5292,0.05714285714285715,0.2763095238095238,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+KH-16330,Katharine Harms,Corporate,40,8,454.7871,0.1388888888888889,0.1875132275132275,3,0.0012259036,Loyal,Upsell to higher-margin categories (Technology),LOW
+JR-16210,Justin Ritter,Corporate,33,5,452.37300000000005,0.22000000000000003,-0.00625000000000005,3,,Lost,Standard newsletter + seasonal promotions,LOW
+EJ-14155,Eva Jacobs,Consumer,57,5,451.87550000000005,0.0625,0.23174107142857142,2,,Lost,Standard newsletter + seasonal promotions,LOW
+BT-11680,Brian Thompson,Consumer,20,7,447.74839999999995,0.07,0.305875,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+PJ-18835,Patrick Jones,Corporate,39,8,442.1355,0.07692307692307693,0.3192307692307692,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+GM-14500,Gene McClure,Consumer,106,10,441.3185,0.11538461538461539,0.2912362637362637,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SC-20230,Scot Coram,Corporate,149,4,440.14099999999996,0.10909090909090911,0.19749999999999998,3,0.002869458,Lost,Dormant reactivation: survey + discount offer,LOW
+DB-13615,Doug Bickford,Consumer,33,7,438.80119999999994,0.14545454545454548,0.2418181818181818,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+PO-18865,Patrick O'Donnell,Consumer,0,7,437.8533,0.04615384615384616,0.2642307692307692,3,0.0018633486,Loyal,Upsell to higher-margin categories (Technology),LOW
+AA-10480,Andrew Allen,Consumer,259,4,435.8274,0.016666666666666666,0.33083333333333326,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+PV-18985,Paul Van Hugh,Home Office,89,5,434.52840000000003,0.08461538461538462,0.2810714285714285,3,0.0035225863,Lost,Standard newsletter + seasonal promotions,LOW
+BP-11095,Bart Pistole,Corporate,17,12,433.9751,0.165,0.13966666666666663,3,0.0014868999,Loyal,Upsell to higher-margin categories (Technology),LOW
+DB-12910,Daniel Byrd,Home Office,21,8,431.3748,0.15416666666666667,0.16958741830065358,3,0.0013709853,Loyal,Upsell to higher-margin categories (Technology),LOW
+JP-15460,Jennifer Patt,Corporate,37,7,429.7465,0.14,0.20114285714285712,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CP-12085,Cathy Prescott,Corporate,82,8,427.0258,0.14285714285714285,0.1444642857142857,3,0.0014310204,Loyal,Upsell to higher-margin categories (Technology),LOW
+CD-11920,Carlos Daly,Consumer,40,5,426.661,0.044444444444444446,0.2794444444444444,3,0.004802906,Lost,Standard newsletter + seasonal promotions,LOW
+CC-12430,Chuck Clark,Home Office,0,10,424.6583,0.05789473684210527,0.2977485380116959,3,0.0018030267,Loyal,Upsell to higher-margin categories (Technology),LOW
+BT-11305,Beth Thompson,Home Office,336,5,417.5918,0.044444444444444446,0.2755555555555555,3,,At Risk,Re-engagement email: show personalized deals,LOW
+ML-17755,Max Ludwig,Home Office,29,7,409.51120000000003,0.1076923076923077,0.2613461538461538,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BT-11530,Bradley Talbott,Home Office,91,5,409.4983,0.1,0.24191666666666664,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CM-12115,Chad McGuire,Consumer,8,4,409.0679,0.028571428571428574,0.3139285714285714,3,,Lost,Standard newsletter + seasonal promotions,LOW
+FP-14320,Frank Preis,Consumer,23,8,406.44730000000004,0.13571428571428573,0.21956349206349207,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CD-12790,Cynthia Delaney,Home Office,399,5,403.8422,0.02666666666666667,0.357,3,,At Risk,Re-engagement email: show personalized deals,LOW
+NZ-18565,Nick Zandusky,Home Office,85,9,402.4236,0.175,0.15362499999999998,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+KE-16420,Katrina Edelman,Corporate,26,8,397.87989999999996,0.21466666666666667,0.07567647058823528,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+FG-14260,Frank Gastineau,Home Office,34,7,394.73969999999997,0.11818181818181818,0.20636363636363636,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CC-12220,Chris Cortes,Consumer,20,12,393.9618,0.11818181818181818,0.23650252525252524,3,0.0011842303,Loyal,Upsell to higher-margin categories (Technology),LOW
+CC-12145,Charles Crestani,Consumer,106,7,392.2825,0.08181818181818182,0.30405844155844153,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RM-19375,Raymond Messe,Consumer,345,6,392.1499,0.044444444444444446,0.31611111111111106,3,,At Risk,Re-engagement email: show personalized deals,LOW
+TB-21055,Ted Butterfield,Consumer,119,5,390.2113,0.05555555555555555,0.3608575837742504,3,0.004560612,Lost,Standard newsletter + seasonal promotions,LOW
+NF-18595,Nicole Fjeld,Home Office,114,7,388.2131,0.11666666666666668,0.2725,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+EJ-13720,Ed Jacobs,Consumer,302,4,387.0176,0.175,-0.010937499999999996,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+BS-11590,Brendan Sweed,Corporate,35,6,381.7807,0.3,-0.15250000000000002,2,,Lost,Standard newsletter + seasonal promotions,LOW
+TB-21625,Trudy Brown,Consumer,30,9,379.882,0.14,0.06654761904761904,3,0.001379488,Loyal,Upsell to higher-margin categories (Technology),LOW
+SC-20440,Shaun Chance,Corporate,36,7,379.5611,0.27999999999999997,-0.008333333333333337,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DK-13375,Dennis Kane,Consumer,19,8,377.0799,0.10869565217391304,0.10527432712215319,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+HP-14815,Harold Pawlan,Home Office,30,7,373.8637,0.3,-0.17847222222222225,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+VB-21745,Victoria Brennan,Corporate,54,6,371.2398,0.16999999999999998,0.08077777777777775,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CW-11905,Carl Weiss,Home Office,22,6,370.8298,0.09090909090909091,0.2945454545454545,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SC-20680,Steve Carroll,Home Office,126,6,370.1578,0.0,0.3575,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+SZ-20035,Sam Zeldin,Home Office,35,11,366.43030000000005,0.22000000000000003,0.03767261904761904,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TG-21640,Trudy Glocke,Consumer,114,4,365.7205,0.13,0.18424999999999997,3,,Lost,Standard newsletter + seasonal promotions,LOW
+AH-10030,Aaron Hawkins,Corporate,12,7,365.2152,0.09090909090909091,0.3104545454545454,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CM-12235,Chris McAfee,Consumer,385,5,365.0387,0.07500000000000001,0.3390625,3,,At Risk,Re-engagement email: show personalized deals,LOW
+BP-11185,Ben Peterman,Corporate,1,9,363.5991,0.19444444444444445,0.1183994708994709,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JM-15535,Jessica Myrick,Consumer,102,7,356.5395,0.09,0.26535294117647057,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AS-10285,Alejandro Savely,Corporate,19,6,354.62760000000003,0.225,-0.07895833333333335,3,,Lost,Standard newsletter + seasonal promotions,LOW
+ND-18370,Natalie DeCherney,Consumer,27,9,353.64549999999997,0.21111111111111114,-0.05833333333333335,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DV-13465,Dianna Vittorini,Consumer,29,6,353.2127,0.11333333333333334,0.15416666666666667,3,,Lost,Standard newsletter + seasonal promotions,LOW
+LS-17245,Lynn Smith,Consumer,34,6,348.3584,0.08333333333333333,0.3577083333333333,3,,Lost,Standard newsletter + seasonal promotions,LOW
+GM-14440,Gary McGarr,Consumer,83,7,347.266,0.11818181818181818,0.15815656565656566,3,0.0011682989,Loyal,Upsell to higher-margin categories (Technology),LOW
+DJ-13510,Don Jones,Corporate,48,8,345.2521,0.06923076923076923,0.2834065934065934,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AG-10900,Arthur Gainer,Consumer,96,10,343.6824,0.16666666666666666,0.09398659463785515,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+NL-18310,Nancy Lomonaco,Home Office,58,4,343.6381,0.06000000000000001,0.2815,2,,Lost,Standard newsletter + seasonal promotions,LOW
+MG-17650,Matthew Grinstein,Home Office,29,7,341.898,0.1285714285714286,0.17690476190476193,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BN-11515,Bradley Nguyen,Consumer,9,5,340.7054,0.023529411764705882,0.3176470588235294,3,,Lost,Standard newsletter + seasonal promotions,LOW
+LP-17095,Liz Preis,Consumer,9,7,338.44539999999995,0.18666666666666665,0.061277777777777785,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+PG-18895,Paul Gonzalez,Consumer,57,9,334.5163,0.09411764705882353,0.1976470588235294,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BD-11725,Bruce Degenhardt,Consumer,93,6,333.9791,0.02,0.3115,3,0.0050374568,Lost,Standard newsletter + seasonal promotions,LOW
+Dp-13240,Dean percer,Home Office,84,11,333.36479999999995,0.18620689655172415,0.10040229885057468,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SW-20275,Scott Williamson,Consumer,30,6,332.8725,0.028571428571428574,0.3221428571428571,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SS-20140,Saphhira Shifley,Corporate,15,8,332.3487,0.11428571428571428,0.15047619047619046,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CC-12610,Corey Catlett,Corporate,34,7,331.434,0.27499999999999997,-0.17090277777777782,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JK-15370,Jay Kimmel,Consumer,44,8,330.2838,0.12352941176470589,0.1906535947712418,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JF-15355,Jay Fein,Consumer,105,6,330.199,0.07500000000000001,0.33296875,3,0.0025851903,Lost,Standard newsletter + seasonal promotions,LOW
+KN-16705,Kristina Nunn,Home Office,98,8,329.76250000000005,0.12000000000000001,0.128,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+KD-16345,Katherine Ducich,Consumer,41,6,328.5942,0.13,0.2375,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CL-11890,Carl Ludwig,Consumer,106,4,328.0847,0.05714285714285715,0.26107142857142857,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DL-12865,Dan Lawera,Consumer,100,8,322.2449,0.15,0.22285714285714284,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LT-17110,Liz Thompson,Consumer,34,8,320.973,0.24642857142857144,-0.04908263305322129,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+IG-15085,Ivan Gibson,Consumer,71,4,320.4982,0.028571428571428574,0.42,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MY-17380,Maribeth Yedwab,Corporate,29,7,319.1211,0.3076923076923077,-0.037948717948717944,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RD-19810,Ross DeVincentis,Home Office,14,8,318.4625,0.1875,0.12390625,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AF-10870,Art Ferguson,Consumer,41,7,317.9712,0.2,-0.07939732142857144,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AB-10150,Aimee Bixby,Consumer,41,5,313.6597,0.13333333333333333,0.21479166666666663,3,,Lost,Standard newsletter + seasonal promotions,LOW
+NG-18355,Nat Gilpin,Corporate,48,5,313.63349999999997,0.08750000000000001,0.2703125,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JP-16135,Julie Prescott,Home Office,102,9,309.7116,0.15384615384615385,0.18831501831501832,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CR-12730,Craig Reiter,Consumer,78,4,306.9176,0.26666666666666666,0.040119047619047624,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RA-19915,Russell Applegate,Consumer,12,9,304.8673,0.27954545454545454,-0.2437089381207029,3,0.0012597692,Loyal,Upsell to higher-margin categories (Technology),LOW
+BF-11020,Barry Französisch,Corporate,74,8,302.02,0.2571428571428572,0.02998299319727889,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LC-16960,Lindsay Castell,Home Office,436,4,299.48019999999997,0.2857142857142857,-0.060714285714285735,3,,At Risk,Re-engagement email: show personalized deals,LOW
+AC-10615,Ann Chong,Corporate,6,5,298.8273,0.1111111111111111,0.15125,3,,Lost,Standard newsletter + seasonal promotions,LOW
+AG-10495,Andrew Gjertsen,Corporate,78,8,295.6668,0.20476190476190476,0.17664021164021163,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DO-13645,Doug O'Connell,Consumer,26,7,294.0676,0.09090909090909091,0.2668181818181818,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+KB-16600,Ken Brennan,Corporate,1,7,293.55240000000003,0.2666666666666667,-0.20777777777777776,2,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TM-21490,Tony Molinari,Consumer,130,3,292.52099999999996,0.05,0.24812499999999996,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+DB-13360,Dennis Bolton,Home Office,264,5,291.0085,0.08333333333333333,0.33865740740740735,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+MN-17935,Michael Nguyen,Consumer,34,6,290.8227,0.26,-0.12350000000000003,3,0.0027052988,Lost,Standard newsletter + seasonal promotions,LOW
+MC-17590,Matt Collister,Corporate,51,6,288.98409999999996,0.17058823529411765,0.1301470588235294,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DL-13315,Delfina Latchford,Consumer,22,8,288.8732,0.1823529411764706,0.09068627450980393,3,0.0023729333,Loyal,Upsell to higher-margin categories (Technology),LOW
+LC-16930,Linda Cazamias,Corporate,41,8,288.26599999999996,0.17142857142857143,0.23966836734693878,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SF-20200,Sarah Foster,Consumer,59,9,286.9046,0.12666666666666665,0.17977777777777776,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AP-10720,Anne Pryor,Home Office,41,8,285.7888,0.1631578947368421,0.17881578947368418,3,0.0018640875,Loyal,Upsell to higher-margin categories (Technology),LOW
+EB-14170,Evan Bailliet,Consumer,82,6,282.1701,0.2285714285714286,0.22892857142857143,3,0.002654954,Lost,Standard newsletter + seasonal promotions,LOW
+AH-10075,Adam Hart,Corporate,34,10,281.189,0.135,0.16847619047619047,3,0.0011337046,Loyal,Upsell to higher-margin categories (Technology),LOW
+MS-17770,Maxwell Schwartz,Consumer,121,9,280.85839999999996,0.09999999999999999,0.20030701754385963,3,0.0012502637,Loyal,Upsell to higher-margin categories (Technology),LOW
+MA-17995,Michelle Arnett,Home Office,186,6,280.7822,0.041666666666666664,0.31451388888888887,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+PB-19150,Philip Brown,Consumer,97,8,280.6606,0.1272727272727273,0.2427272727272727,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RF-19840,Roy Französisch,Consumer,6,8,280.0261,0.0818181818181818,0.18606060606060604,3,0.0013739988,Loyal,Upsell to higher-margin categories (Technology),LOW
+CA-12265,Christina Anderson,Consumer,56,9,279.6183,0.18941176470588236,-0.06913206459054211,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JC-15775,John Castell,Consumer,158,9,279.56919999999997,0.12187500000000001,0.22354779411764703,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BO-11350,Bill Overfelt,Corporate,137,5,278.77700000000004,0.2333333333333333,0.05402777777777775,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+TT-21220,Thomas Thornton,Consumer,183,8,278.7371,0.21333333333333335,0.011500000000000017,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AA-10375,Allen Armold,Consumer,19,9,277.3824,0.08000000000000002,0.319,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+HE-14800,Harold Engle,Corporate,12,4,274.4028,0.018181818181818184,0.3297727272727272,3,0.004239481,Lost,Standard newsletter + seasonal promotions,LOW
+KB-16405,Katrina Bavinger,Home Office,117,3,274.297,0.044444444444444446,0.31123456790123455,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MV-18190,Mike Vittorini,Consumer,19,7,273.8582,0.08636363636363636,0.28875668449197855,3,0.0019431341,Loyal,Upsell to higher-margin categories (Technology),LOW
+PC-18745,Pamela Coakley,Corporate,2,4,272.685,0.22000000000000003,0.04833333333333334,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CB-12415,Christy Brittain,Consumer,26,8,272.3883,0.3333333333333333,-0.32,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+HA-14905,Helen Abelman,Consumer,69,7,270.8574,0.22999999999999998,0.00808333333333334,3,0.002092432,Loyal,Upsell to higher-margin categories (Technology),LOW
+RK-19300,Ralph Kennedy,Consumer,119,3,269.688,0.07500000000000001,0.29385416666666664,3,0.002759711,Lost,Standard newsletter + seasonal promotions,LOW
+TB-21355,Todd Boyes,Corporate,146,5,268.967,0.06153846153846154,0.32173076923076915,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+SP-20650,Stephanie Phelps,Corporate,386,9,268.4782,0.15333333333333332,0.19511111111111112,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TC-21145,Theresa Coyne,Corporate,106,1,265.5332,0.0,0.23500000000000001,2,,Lost,Standard newsletter + seasonal promotions,LOW
+AB-10255,Alejandro Ballentine,Home Office,166,9,264.5675,0.1,0.3068452380952381,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LS-16975,Lindsay Shagiari,Home Office,20,9,262.63669999999996,0.2818181818181818,-0.17863636363636368,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+EB-13870,Emily Burns,Consumer,100,10,261.5315,0.29090909090909095,-0.12636724386724388,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CK-12325,Christine Kargatis,Home Office,120,5,261.22090000000003,0.18333333333333335,0.11908730158730158,3,,Lost,Standard newsletter + seasonal promotions,LOW
+TS-21160,Theresa Swint,Corporate,504,6,260.87440000000004,0.22352941176470587,-0.0029621848739495747,3,,At Risk,Re-engagement email: show personalized deals,LOW
+TB-21250,Tim Brockman,Consumer,349,7,260.6155,0.2473684210526316,-0.016842105263157908,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+BT-11395,Bill Tyler,Corporate,302,6,257.9163,0.15,0.1438333333333333,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+KT-16465,Kean Takahito,Consumer,391,7,254.0032,0.2285714285714286,0.10344387755102043,3,,At Risk,Re-engagement email: show personalized deals,LOW
+BC-11125,Becky Castell,Home Office,202,9,251.5974,0.1111111111111111,0.16546516754850088,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DK-13150,David Kendrick,Corporate,10,2,249.9447,0.12000000000000002,0.31849999999999995,2,0.002933929,Lost,Standard newsletter + seasonal promotions,LOW
+FM-14215,Filia McAdams,Corporate,7,10,249.6808,0.09333333333333334,0.23522222222222222,3,0.0019006904,Loyal,Upsell to higher-margin categories (Technology),LOW
+ZD-21925,Zuschuss Donatelli,Consumer,202,5,249.1307,0.1111111111111111,0.25833333333333336,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+PR-18880,Patrick Ryan,Consumer,36,5,247.6226,0.11666666666666668,0.219375,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MS-17710,Maurice Satty,Consumer,413,6,247.4348,0.22,0.10659523809523809,3,,At Risk,Re-engagement email: show personalized deals,LOW
+ES-14080,Erin Smith,Corporate,28,9,246.6661,0.26,0.01701785714285716,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CA-12310,Christine Abelman,Corporate,13,4,246.02179999999998,0.11818181818181818,0.15457792207792206,3,,Lost,Standard newsletter + seasonal promotions,LOW
+LS-17200,Luke Schmidt,Corporate,96,6,244.197,0.2,0.031607142857142806,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RB-19705,Roger Barcio,Home Office,54,4,243.07549999999998,0.1571428571428571,0.013378684807256236,3,,Lost,Standard newsletter + seasonal promotions,LOW
+EH-14185,Evan Henry,Consumer,105,6,242.1107,0.28750000000000003,-0.09781250000000004,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DP-13000,Darren Powers,Consumer,126,9,241.4524,0.2117647058823529,0.13151960784313724,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+EM-14095,Eudokia Martin,Corporate,113,4,240.2362,0.1,0.27775,3,,Lost,Standard newsletter + seasonal promotions,LOW
+BS-11665,Brian Stugart,Consumer,582,3,238.73680000000002,0.18181818181818182,-0.004545454545454561,3,,At Risk,Re-engagement email: show personalized deals,LOW
+MH-17785,Maya Herman,Corporate,98,7,238.5614,0.07272727272727274,0.24295454545454545,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SC-20380,Shahid Collister,Consumer,30,9,236.66149999999996,0.19,0.04033333333333331,3,0.0011607839,Loyal,Upsell to higher-margin categories (Technology),LOW
+KA-16525,Kelly Andreada,Consumer,36,7,234.9194,0.05454545454545456,0.24909090909090906,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CD-12280,Christina DeMoss,Consumer,42,2,233.0274,0.08461538461538462,0.2647222222222222,3,,Lost,Standard newsletter + seasonal promotions,LOW
+GD-14590,Giulietta Dortch,Corporate,5,4,230.93729999999996,0.13333333333333333,0.2847222222222222,3,,Lost,Standard newsletter + seasonal promotions,LOW
+PB-18805,Patrick Bzostek,Home Office,25,3,229.2257,0.12000000000000002,0.3025,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SC-20305,Sean Christensen,Consumer,29,7,229.1617,0.21666666666666667,0.1563392857142857,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CL-12700,Craig Leslie,Home Office,105,5,229.00990000000002,0.1875,0.11687499999999998,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JL-15835,John Lee,Consumer,21,11,228.907,0.08823529411764706,0.242531512605042,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SF-20065,Sandra Flanagan,Consumer,59,7,228.1623,0.1,0.23952380952380953,3,0.001510553,Loyal,Upsell to higher-margin categories (Technology),LOW
+BF-10975,Barbara Fisher,Corporate,91,7,227.4384,0.14615384615384613,0.24826923076923074,3,0.0016668093,Loyal,Upsell to higher-margin categories (Technology),LOW
+MP-18175,Mike Pelletier,Home Office,16,9,226.4529,0.15526315789473685,0.12363261093911247,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+PA-19060,Pete Armstrong,Home Office,103,6,225.8588,0.1857142857142857,0.2067857142857143,3,,Lost,Standard newsletter + seasonal promotions,LOW
+TZ-21580,Tracy Zic,Consumer,35,4,224.8887,0.08888888888888889,0.27416666666666667,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DL-13330,Denise Leinenbach,Consumer,57,4,222.6812,0.05,0.305,3,0.0039030376,Lost,Standard newsletter + seasonal promotions,LOW
+JE-15745,Joel Eaton,Consumer,51,13,221.79670000000002,0.14565217391304347,-0.00968487394957982,3,0.0012833684,Loyal,Upsell to higher-margin categories (Technology),LOW
+TS-21655,Trudy Schmidt,Consumer,238,5,220.91629999999998,0.19285714285714287,-0.1239795918367347,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+AB-10165,Alan Barnes,Consumer,25,8,220.813,0.13571428571428573,0.24206632653061225,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TR-21325,Toby Ritter,Consumer,193,5,220.36440000000002,0.028571428571428574,0.3885714285714285,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+PB-19105,Peter Bühler,Consumer,57,4,218.15970000000002,0.12000000000000002,0.253,3,,Lost,Standard newsletter + seasonal promotions,LOW
+TC-21535,Tracy Collins,Home Office,4,7,217.933,0.11000000000000001,0.18816666666666665,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+NG-18430,Nathan Gelder,Consumer,48,5,217.0893,0.1111111111111111,0.2872222222222222,3,0.0035822338,Lost,Standard newsletter + seasonal promotions,LOW
+FO-14305,Frank Olsen,Consumer,38,10,215.59689999999998,0.22,-0.0367777777777778,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CM-11815,Candace McMahon,Corporate,131,6,214.463,0.12000000000000002,0.23324999999999996,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+DB-12970,Darren Budd,Corporate,241,5,213.00289999999998,0.16571428571428573,0.13340802987861808,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+MB-17305,Maria Bertelson,Consumer,48,10,212.425,0.17368421052631577,0.15829156223893062,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CA-12055,Cathy Armstrong,Home Office,401,5,211.2559,0.3,-0.2045,3,,At Risk,Re-engagement email: show personalized deals,LOW
+MC-17575,Matt Collins,Consumer,27,8,210.7493,0.29090909090909095,-0.1823484848484849,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DK-13225,Dean Katz,Corporate,10,9,209.89940000000004,0.19473684210526318,0.0531140350877193,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BP-11050,Barry Pond,Corporate,83,5,209.78300000000002,0.14285714285714285,0.0017857142857142735,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JL-15175,James Lanier,Home Office,6,5,209.2817,0.21428571428571427,0.19642857142857142,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CC-12100,Chad Cunningham,Home Office,457,6,208.5912,0.21538461538461537,0.02705128205128204,3,,At Risk,Re-engagement email: show personalized deals,LOW
+RD-19720,Roger Demir,Consumer,21,10,207.3304,0.1575,0.13564215686274508,3,0.0021857542,Loyal,Upsell to higher-margin categories (Technology),LOW
+BD-11620,Brian DeCherney,Consumer,69,6,206.75689999999997,0.17500000000000002,0.08364583333333334,3,,Lost,Standard newsletter + seasonal promotions,LOW
+Co-12640,Corey-Lock,Consumer,549,5,205.62820000000002,0.175,0.14656249999999996,2,,At Risk,Re-engagement email: show personalized deals,LOW
+VP-21730,Victor Preis,Home Office,30,3,205.3888,0.04,0.22949999999999998,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CA-12775,Cynthia Arntzen,Consumer,120,7,204.48950000000002,0.18823529411764706,0.12573529411764706,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JO-15280,Jas O'Carroll,Consumer,92,6,202.13619999999997,0.17272727272727273,0.16272727272727272,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JC-16105,Julie Creighton,Corporate,57,5,201.5952,0.044444444444444446,0.33499999999999996,3,0.0051509906,Lost,Standard newsletter + seasonal promotions,LOW
+JB-16045,Julia Barnett,Home Office,7,5,201.51850000000002,0.1888888888888889,0.06796296296296298,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JJ-15445,Jennifer Jackson,Consumer,483,5,200.5558,0.06666666666666667,0.3358333333333334,3,,At Risk,Re-engagement email: show personalized deals,LOW
+DM-13525,Don Miller,Corporate,481,3,199.7688,0.16999999999999998,0.144,3,,At Risk,Re-engagement email: show personalized deals,LOW
+SV-20815,Stuart Van,Corporate,76,4,199.6502,0.19999999999999998,0.1733333333333333,2,,Lost,Standard newsletter + seasonal promotions,LOW
+PS-18970,Paul Stevenson,Home Office,69,8,198.5099,0.05384615384615384,0.2695054945054945,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+FM-14290,Frank Merwin,Home Office,36,9,198.10949999999997,0.18,-0.012375000000000016,3,0.0012372661,Loyal,Upsell to higher-margin categories (Technology),LOW
+PF-19165,Philip Fox,Consumer,196,6,196.87389999999996,0.05,0.22599999999999998,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+MC-17605,Matt Connell,Corporate,112,8,195.4486,0.2222222222222222,0.09318121693121692,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CH-12070,Cathy Hwang,Home Office,691,3,195.15109999999999,0.15000000000000002,0.12187499999999998,2,,At Risk,Re-engagement email: show personalized deals,LOW
+AM-10360,Alice McCarthy,Corporate,28,5,194.9878,0.125,0.2916666666666667,3,,Lost,Standard newsletter + seasonal promotions,LOW
+KT-16480,Kean Thornton,Consumer,100,10,194.0671,0.14769230769230768,0.18587858220211162,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BS-11800,Bryan Spruell,Home Office,265,2,194.0516,0.0,0.37124999999999997,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+DS-13030,Darrin Sayre,Home Office,93,4,193.3319,0.1394736842105263,0.17129772961816303,3,,Lost,Standard newsletter + seasonal promotions,LOW
+LW-17125,Liz Willingham,Consumer,205,3,192.6312,0.0,0.246,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+PN-18775,Parhena Norris,Home Office,30,8,192.0396,0.12307692307692308,0.2171153846153846,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+FM-14380,Fred McMath,Consumer,145,9,191.4898,0.15714285714285717,0.09065476190476186,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MV-17485,Mark Van Huff,Consumer,27,9,189.0258,0.24000000000000002,-0.026740740740740745,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+GM-14695,Greg Maxwell,Corporate,117,3,188.7235,0.05454545454545456,0.29227272727272724,2,,Lost,Standard newsletter + seasonal promotions,LOW
+CC-12670,Craig Carreira,Consumer,29,7,187.8399,0.16785714285714287,0.08481092436974788,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+HR-14770,Hallie Redmond,Home Office,13,5,185.5794,0.04615384615384616,0.235,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CS-11845,Cari Sayre,Corporate,91,5,185.3776,0.275,-0.15593750000000003,3,,Lost,Standard newsletter + seasonal promotions,LOW
+EB-14110,Eugene Barchas,Consumer,113,6,184.7656,0.2090909090909091,0.11586580086580084,3,,Lost,Standard newsletter + seasonal promotions,LOW
+TB-21190,Thomas Brumley,Home Office,49,4,179.0038,0.025,0.32777777777777767,2,,Lost,Standard newsletter + seasonal promotions,LOW
+MM-17260,Magdelene Morse,Consumer,168,4,178.402,0.13333333333333333,0.22251322751322752,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+DB-13660,Duane Benoit,Consumer,12,7,177.67350000000002,0.16,0.11725000000000001,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CM-12715,Craig Molinari,Corporate,1035,4,176.3108,0.30923076923076925,-0.22489064856711913,3,,At Risk,Re-engagement email: show personalized deals,LOW
+Dl-13600,Dorris liebe,Corporate,119,5,175.2388,0.21666666666666667,-0.23379629629629628,2,,Lost,Standard newsletter + seasonal promotions,LOW
+RH-19600,Rob Haberlin,Consumer,534,3,172.6261,0.10909090909090909,0.18003246753246754,3,,At Risk,Re-engagement email: show personalized deals,LOW
+MG-17890,Michael Granlund,Home Office,99,9,171.7372,0.11923076923076924,0.15145927601809953,3,0.001587863,Loyal,Upsell to higher-margin categories (Technology),LOW
+MH-18115,Mick Hernandez,Home Office,5,9,170.9746,0.16818181818181818,0.11607142857142856,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DB-13210,Dean Braden,Consumer,9,10,169.9679,0.18571428571428572,0.05530045351473924,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CG-12520,Claire Gute,Consumer,338,3,169.93439999999998,0.2,0.03700000000000001,3,,At Risk,Re-engagement email: show personalized deals,LOW
+MO-17800,Meg O'Connel,Home Office,104,8,169.34369999999998,0.16363636363636364,0.06685064935064934,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SK-19990,Sally Knutson,Consumer,8,3,168.7933,0.22000000000000003,0.084,3,0.005095465,Lost,Standard newsletter + seasonal promotions,LOW
+JO-15550,Jesus Ocampo,Home Office,215,5,167.6709,0.23636363636363636,0.07946969696969695,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+DS-13180,David Smith,Corporate,23,9,163.6993,0.15350000000000003,0.10017121848739494,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MR-17545,Mathew Reese,Home Office,125,4,162.9363,0.20000000000000004,-0.0025000000000000113,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+EB-13975,Erica Bern,Corporate,0,4,162.8781,0.2833333333333333,-0.009027777777777801,1,0.0048815454,Lost,Standard newsletter + seasonal promotions,LOW
+LE-16810,Laurel Elliston,Consumer,21,6,161.76489999999998,0.2555555555555556,-0.29194444444444445,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CT-11995,Carol Triggs,Consumer,96,8,161.22629999999995,0.16111111111111112,0.027870370370370337,3,0.001172927,Loyal,Upsell to higher-margin categories (Technology),LOW
+SS-20515,Shirley Schmidt,Home Office,491,3,158.5069,0.0,0.31399999999999995,2,,At Risk,Re-engagement email: show personalized deals,LOW
+SB-20170,Sarah Bern,Consumer,201,3,157.6658,0.18571428571428572,0.011309523809523795,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+KC-16675,Kimberly Carter,Corporate,57,4,156.7797,0.08571428571428573,0.22964285714285712,2,,Lost,Standard newsletter + seasonal promotions,LOW
+CS-12460,Chuck Sachs,Consumer,27,2,156.2593,0.06666666666666667,0.32499999999999996,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JB-15400,Jennifer Braxton,Corporate,7,10,156.05319999999998,0.20625000000000002,-0.05812500000000002,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AZ-10750,Annie Zypern,Consumer,160,6,154.9503,0.125,0.19002314814814814,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+CC-12475,Cindy Chapman,Consumer,39,9,154.851,0.16153846153846155,-8.241758241757594e-05,2,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JW-16075,Julia West,Consumer,461,4,154.06369999999998,0.32857142857142857,-0.20130952380952377,3,,At Risk,Re-engagement email: show personalized deals,LOW
+AJ-10780,Anthony Jacobs,Corporate,75,7,150.71300000000005,0.08666666666666667,0.20794444444444443,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+EH-13990,Erica Hackney,Consumer,405,6,150.3759,0.0625,0.2867708333333333,3,,At Risk,Re-engagement email: show personalized deals,LOW
+CB-12025,Cassandra Brandow,Consumer,47,10,150.2089,0.16346153846153846,0.10463639301874593,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LO-17170,Lori Olson,Corporate,2,5,150.1712,0.25555555555555554,-0.07039682539682539,3,,Lost,Standard newsletter + seasonal promotions,LOW
+LC-17140,Logan Currie,Consumer,13,9,148.07500000000002,0.19444444444444445,-0.01679232804232807,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+HG-14845,Harry Greene,Consumer,54,5,147.0032,0.19,0.18041666666666667,3,,Lost,Standard newsletter + seasonal promotions,LOW
+EP-13915,Emily Phan,Consumer,12,17,144.9578,0.19741935483870968,0.030209406343182407,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CR-12625,Corey Roper,Home Office,470,3,144.7594,0.0,0.3725,3,,At Risk,Re-engagement email: show personalized deals,LOW
+VG-21790,Vivek Gonzalez,Consumer,154,6,143.6268,0.07500000000000001,0.220625,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+BD-11635,Brian Derr,Consumer,9,3,141.53400000000002,0.1,0.28405555555555556,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CK-12205,Chloris Kastensmidt,Consumer,39,13,141.2831,0.234375,0.06443452380952377,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BD-11770,Bryan Davis,Consumer,327,6,141.265,0.12000000000000002,0.25975000000000004,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+BE-11455,Brad Eason,Home Office,254,6,139.20080000000002,0.14615384615384613,0.14647435897435895,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+ML-18040,Michelle Lonsdale,Corporate,79,3,138.71620000000001,0.25,-0.14625000000000002,2,,Lost,Standard newsletter + seasonal promotions,LOW
+BM-11785,Bryan Mills,Consumer,218,10,137.7439,0.25,-0.0242857142857143,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+PG-18820,Patrick Gardner,Consumer,36,13,137.46130000000002,0.16923076923076924,0.007179487179487166,3,0.0011435907,Loyal,Upsell to higher-margin categories (Technology),LOW
+GA-14725,Guy Armstrong,Consumer,5,11,136.70790000000002,0.17954545454545456,0.02198529411764703,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AS-10630,Ann Steele,Home Office,92,7,136.49190000000002,0.18333333333333335,0.28944444444444445,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SS-20590,Sonia Sunley,Consumer,432,6,135.5401,0.0,0.3044444444444444,3,,At Risk,Re-engagement email: show personalized deals,LOW
+DC-13285,Debra Catini,Consumer,23,5,132.06820000000002,0.07857142857142858,0.16684873949579831,3,,Lost,Standard newsletter + seasonal promotions,LOW
+AB-10015,Aaron Bergman,Consumer,415,3,129.3465,0.06666666666666667,0.10541666666666666,2,,At Risk,Re-engagement email: show personalized deals,LOW
+BT-11485,Brad Thomas,Home Office,659,2,126.8694,0.06666666666666667,0.3641666666666667,2,,At Risk,Re-engagement email: show personalized deals,LOW
+JB-16000,Joy Bell-,Consumer,43,7,126.76490000000001,0.07428571428571429,0.3547689075630252,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SJ-20125,Sanjit Jacobs,Home Office,95,12,123.10609999999998,0.24347826086956523,-0.05501552795031059,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JK-16120,Julie Kriz,Home Office,117,10,122.6566,0.20588235294117646,0.045882352941176444,3,0.001061355,Loyal,Upsell to higher-margin categories (Technology),LOW
+MH-17620,Matt Hagelstein,Corporate,155,4,122.3612,0.23333333333333336,-0.04625000000000001,2,0.0041490523,Lost,Dormant reactivation: survey + discount offer,LOW
+MC-18130,Mike Caudle,Corporate,369,5,121.7565,0.05454545454545456,0.24090909090909085,3,,At Risk,Re-engagement email: show personalized deals,LOW
+NK-18490,Neil Knudson,Home Office,70,7,121.2177,0.1272727272727273,0.29204545454545455,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BG-11740,Bruce Geld,Consumer,57,6,119.34790000000001,0.14285714285714285,0.1882142857142857,3,,Lost,Standard newsletter + seasonal promotions,LOW
+TC-21475,Tony Chapman,Home Office,153,9,119.104,0.2636363636363636,-0.19000000000000003,2,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MB-18085,Mick Brown,Consumer,44,7,117.8057,0.2,0.12272619047619045,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+NB-18655,Nona Balk,Corporate,19,9,117.6429,0.1735294117647059,0.15143939393939396,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+HM-14980,Henry MacAllister,Consumer,247,4,117.2755,0.17142857142857146,0.2382142857142857,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+JM-15655,Jim Mitchum,Corporate,8,5,117.20400000000001,0.15833333333333335,0.13965277777777776,3,,Lost,Standard newsletter + seasonal promotions,LOW
+BD-11560,Brendan Dodson,Home Office,278,2,116.714,0.0,0.41999999999999993,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+VM-21835,Vivian Mathis,Consumer,117,5,116.6373,0.11249999999999999,0.24479166666666663,3,,Lost,Standard newsletter + seasonal promotions,LOW
+KN-16450,Kean Nguyen,Corporate,52,5,114.3083,0.28125,-0.23808210784313724,3,0.004156315,Lost,Standard newsletter + seasonal promotions,LOW
+CS-12175,Charles Sheldon,Corporate,232,5,113.1405,0.1625,0.12270833333333332,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+JM-15580,Jill Matthias,Consumer,0,5,113.1204,0.1142857142857143,0.3125,2,,Lost,Standard newsletter + seasonal promotions,LOW
+JD-16060,Julia Dunbar,Consumer,300,3,111.11410000000001,0.049999999999999996,0.22142857142857142,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+BF-11080,Bart Folk,Consumer,25,3,110.9272,0.0,0.4116666666666666,3,0.005707144,Lost,Standard newsletter + seasonal promotions,LOW
+LP-17080,Liz Pelletier,Consumer,40,4,110.7813,0.1111111111111111,0.31472222222222224,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DB-13555,Dorothy Badders,Corporate,107,7,109.32700000000001,0.15142857142857144,0.09598739495798318,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DM-12955,Dario Medina,Corporate,114,7,108.7583,0.16666666666666666,0.15674603174603174,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JR-15700,Jocasta Rupert,Consumer,68,1,107.985,0.2,0.125,1,,Lost,Standard newsletter + seasonal promotions,LOW
+KW-16570,Kelly Williams,Consumer,771,4,107.92699999999999,0.04,0.2845,2,,At Risk,Re-engagement email: show personalized deals,LOW
+BG-11695,Brooke Gillingham,Corporate,36,6,107.5715,0.1375,0.2230059523809524,3,,Lost,Standard newsletter + seasonal promotions,LOW
+ME-18010,Michelle Ellison,Corporate,92,4,107.3604,0.16666666666666666,0.16208333333333333,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SV-20935,Susan Vittorini,Consumer,2,8,106.8912,0.23076923076923078,0.06096153846153844,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CS-11860,Cari Schnelling,Consumer,162,6,105.8275,0.2285714285714286,0.032142857142857154,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+EG-13900,Emily Grady,Consumer,22,5,104.2656,0.2,-0.03287477954144625,3,,Lost,Standard newsletter + seasonal promotions,LOW
+AY-10555,Andy Yotov,Corporate,14,4,103.3499,0.1,0.267,3,,Lost,Standard newsletter + seasonal promotions,LOW
+EM-13960,Eric Murdock,Consumer,151,5,102.29599999999999,0.2333333333333333,-0.13708333333333342,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+AT-10435,Alyssa Tate,Home Office,21,6,100.87680000000002,0.19999999999999998,0.026851851851851842,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SC-20575,Sonia Cooley,Consumer,92,5,100.2253,0.34285714285714286,-0.3123809523809524,2,,Lost,Standard newsletter + seasonal promotions,LOW
+HA-14920,Helen Andreada,Consumer,20,8,99.1445,0.2,0.05499999999999998,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CV-12805,Cynthia Voltz,Corporate,5,9,98.99749999999999,0.2431578947368421,-0.09974028207774341,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+HJ-14875,Heather Jas,Home Office,126,5,98.6548,0.10000000000000002,0.2966666666666667,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+JF-15295,Jason Fortune-,Consumer,225,5,97.28899999999999,0.1142857142857143,0.22053571428571425,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+EK-13795,Eileen Kiefer,Home Office,44,4,97.10659999999999,0.0875,0.1965808823529412,2,,Lost,Standard newsletter + seasonal promotions,LOW
+EC-14050,Erin Creighton,Consumer,53,5,96.4256,0.09999999999999999,0.19238095238095235,3,,Lost,Standard newsletter + seasonal promotions,LOW
+EH-14125,Eugene Hildebrand,Home Office,152,10,96.27019999999999,0.20555555555555557,0.040615079365079326,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SW-20350,Sean Wendt,Home Office,162,3,95.8383,0.21666666666666667,0.03763888888888886,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+BM-11575,Brendan Murry,Corporate,100,6,95.58160000000001,0.18,0.057999999999999975,3,,Lost,Standard newsletter + seasonal promotions,LOW
+TH-21235,Tiffany House,Corporate,117,8,92.729,0.2076923076923077,-0.021968864468864487,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CM-12190,Charlotte Melton,Consumer,8,6,91.2033,0.07142857142857142,0.09892857142857144,3,,Lost,Standard newsletter + seasonal promotions,LOW
+KM-16660,Khloe Miller,Consumer,15,5,91.1391,0.044444444444444446,0.3008333333333333,2,,Lost,Standard newsletter + seasonal promotions,LOW
+TD-20995,Tamara Dahlen,Consumer,37,9,88.1897,0.24375000000000002,-0.10677083333333338,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LC-17050,Liz Carlisle,Consumer,54,5,86.77799999999999,0.27222222222222225,-0.08563725490196078,3,,Lost,Standard newsletter + seasonal promotions,LOW
+HH-15010,Hilary Holden,Corporate,72,2,86.7342,0.03333333333333333,0.35541666666666666,2,,Lost,Standard newsletter + seasonal promotions,LOW
+CG-12040,Catherine Glotzbach,Home Office,49,6,86.5106,0.18888888888888888,0.18324074074074076,3,,Lost,Standard newsletter + seasonal promotions,LOW
+NF-18475,Neil Französisch,Home Office,525,4,85.92779999999999,0.25,-0.2575,1,,At Risk,Re-engagement email: show personalized deals,LOW
+MZ-17335,Maria Zettner,Home Office,30,4,85.01910000000001,0.06666666666666667,0.24041666666666664,3,,Lost,Standard newsletter + seasonal promotions,LOW
+ST-20530,Shui Tom,Consumer,125,7,84.4419,0.20000000000000004,0.09166666666666666,3,0.002619422,Lost,Dormant reactivation: survey + discount offer,LOW
+MS-17530,MaryBeth Skach,Consumer,434,4,84.0268,0.15714285714285717,0.08999999999999997,3,,At Risk,Re-engagement email: show personalized deals,LOW
+AH-10585,Angele Hood,Consumer,21,4,83.96300000000001,0.12000000000000002,0.18849999999999997,2,,Lost,Standard newsletter + seasonal promotions,LOW
+CR-12820,Cyra Reiten,Home Office,85,3,83.27029999999999,0.13142857142857142,0.13018907563025214,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MM-17920,Michael Moore,Consumer,7,11,82.12499999999997,0.18125,-0.016875,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+ME-17725,Max Engle,Consumer,28,8,77.81280000000001,0.2246153846153846,-0.10420760611937084,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RB-19570,Rob Beeghly,Consumer,25,5,76.8879,0.16666666666666666,0.14444444444444443,2,,Lost,Standard newsletter + seasonal promotions,LOW
+CR-12580,Clay Rozendal,Home Office,57,4,74.40129999999999,0.13333333333333333,0.20458333333333334,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RB-19645,Robert Barroso,Corporate,648,5,72.679,0.14285714285714285,0.33321428571428563,3,,At Risk,Re-engagement email: show personalized deals,LOW
+DW-13540,Don Weiss,Consumer,98,5,69.6672,0.17777777777777778,0.18166666666666664,2,,Lost,Standard newsletter + seasonal promotions,LOW
+AG-10390,Allen Goldenen,Consumer,114,5,69.2784,0.22499999999999998,0.09947916666666667,3,0.003148352,Lost,Standard newsletter + seasonal promotions,LOW
+SW-20755,Steven Ward,Corporate,534,2,68.2416,0.1,0.2765625,3,,At Risk,Re-engagement email: show personalized deals,LOW
+SJ-20500,Shirley Jackson,Consumer,253,5,68.09629999999999,0.14285714285714285,-0.14964285714285716,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+AW-10840,Anthony Witt,Consumer,20,4,65.77250000000001,0.2,-0.03187499999999999,2,0.0038399692,Lost,Standard newsletter + seasonal promotions,LOW
+AS-10090,Adam Shillingsburg,Consumer,28,9,64.53739999999998,0.18,0.0965111111111111,3,0.0011802994,Loyal,Upsell to higher-margin categories (Technology),LOW
+RC-19825,Roy Collins,Consumer,369,6,63.991400000000006,0.11000000000000001,0.21092857142857144,3,,At Risk,Re-engagement email: show personalized deals,LOW
+MH-17440,Mark Haberlin,Corporate,376,4,61.428599999999996,0.07777777777777778,0.3519444444444444,3,,At Risk,Re-engagement email: show personalized deals,LOW
+CY-12745,Craig Yedwab,Corporate,60,8,60.64670000000001,0.2,0.09909090909090908,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AJ-10960,Astrea Jones,Consumer,74,3,60.4265,0.04,0.2705,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RP-19270,Rachel Payne,Corporate,496,4,59.538399999999996,0.19333333333333336,0.14322303921568627,3,,At Risk,Re-engagement email: show personalized deals,LOW
+BO-11425,Bobby Odegard,Consumer,75,2,59.4522,0.0,0.39999999999999997,2,,Lost,Standard newsletter + seasonal promotions,LOW
+MO-17500,Mary O'Rourke,Consumer,72,4,59.357699999999994,0.22000000000000003,0.08199999999999999,3,,Lost,Standard newsletter + seasonal promotions,LOW
+AG-10300,Aleksandra Gannaway,Corporate,118,4,59.288399999999996,0.08,0.2425,3,,Lost,Standard newsletter + seasonal promotions,LOW
+LT-16765,Larry Tron,Consumer,26,3,59.036,0.13333333333333333,0.23416666666666666,2,,Lost,Standard newsletter + seasonal promotions,LOW
+MM-18280,Muhammed MacIntyre,Corporate,85,9,58.8916,0.14166666666666666,0.17881944444444442,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DA-13450,Dianna Arnett,Home Office,352,4,56.7904,0.125,0.29874999999999996,3,,At Risk,Re-engagement email: show personalized deals,LOW
+JK-15325,Jason Klamczynski,Corporate,287,3,55.32769999999999,0.1,0.2975,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+MS-17980,Michael Stewart,Corporate,26,6,55.226,0.17272727272727273,0.22110389610389608,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JK-15730,Joe Kamberova,Consumer,84,10,55.0483,0.3325,-0.27402906162464985,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JL-15235,Janet Lee,Consumer,119,5,54.51740000000002,0.22000000000000003,-0.10825000000000003,3,0.0039599,Lost,Standard newsletter + seasonal promotions,LOW
+SC-20800,Stuart Calhoun,Consumer,30,4,51.8252,0.12000000000000002,0.24299999999999997,2,,Lost,Standard newsletter + seasonal promotions,LOW
+KB-16315,Karl Braun,Consumer,296,9,49.71929999999999,0.19545454545454544,0.11329545454545453,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TS-21430,Tom Stivers,Corporate,172,5,48.70169999999999,0.15714285714285717,0.1875,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+PH-18790,Patricia Hirasaki,Home Office,70,1,47.8878,0.2,0.0875,1,,Lost,Standard newsletter + seasonal promotions,LOW
+AR-10510,Andrew Roberts,Consumer,14,5,43.6695,0.21428571428571427,0.05345238095238096,3,,Lost,Standard newsletter + seasonal promotions,LOW
+ML-18265,Muhammed Lee,Consumer,100,2,42.6648,0.06666666666666667,0.21749999999999992,2,0.005217712,Lost,Standard newsletter + seasonal promotions,LOW
+EM-14065,Erin Mull,Consumer,47,4,40.15459999999999,0.25,-0.009305555555555567,2,,Lost,Standard newsletter + seasonal promotions,LOW
+LS-17230,Lycoris Saunders,Consumer,777,3,39.1952,0.11666666666666665,0.3098214285714286,3,,At Risk,Re-engagement email: show personalized deals,LOW
+PO-18850,Patrick O'Brill,Consumer,4,11,38.47569999999996,0.21,0.1121912401324166,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BN-11470,Brad Norvell,Corporate,24,4,36.6131,0.16666666666666666,0.21791666666666665,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DD-13570,Dorothy Dickinson,Consumer,41,6,36.4344,0.24444444444444446,-0.15055555555555558,3,,Lost,Standard newsletter + seasonal promotions,LOW
+GM-14680,Greg Matthias,Consumer,152,6,35.48649999999999,0.14545454545454548,0.14954545454545454,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+RD-19930,Russell D'Ascenzo,Consumer,42,4,35.05740000000001,0.31,-0.12000000000000002,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JJ-15760,Joel Jenkins,Home Office,753,2,34.449200000000005,0.06666666666666667,0.23666666666666666,3,,At Risk,Re-engagement email: show personalized deals,LOW
+CC-12550,Clay Cheatham,Consumer,27,3,33.870599999999996,0.15000000000000002,0.323125,2,0.004745254,Lost,Standard newsletter + seasonal promotions,LOW
+AS-10240,Alan Shonely,Consumer,192,7,33.715799999999994,0.2692307692307692,-0.003141025641025658,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+AR-10570,Anemone Ratner,Consumer,534,1,32.633,0.0,0.385,2,,At Risk,Re-engagement email: show personalized deals,LOW
+LW-16825,Laurel Workman,Corporate,88,5,32.5767,0.20666666666666667,0.010611111111111111,3,0.003535283,Lost,Standard newsletter + seasonal promotions,LOW
+SC-20845,Sung Chung,Consumer,131,2,31.1757,0.2,0.2,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+MH-17290,Marc Harrigan,Home Office,119,6,28.761200000000038,0.18846153846153849,0.11099924585218703,3,0.0019009555,Lost,Standard newsletter + seasonal promotions,LOW
+RM-19750,Roland Murray,Consumer,299,1,28.6879,0.0,0.34500000000000003,2,,At Risk,Re-engagement email: show personalized deals,LOW
+EL-13735,Ed Ludwig,Home Office,77,2,27.1154,0.0,0.295,1,,Lost,Standard newsletter + seasonal promotions,LOW
+JD-16015,Joy Daniels,Consumer,112,6,26.7605,0.3090909090909091,-0.15833333333333333,3,0.0027084218,Lost,Standard newsletter + seasonal promotions,LOW
+JH-15820,John Huston,Consumer,174,6,26.082199999999997,0.15000000000000002,0.188125,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+MG-17680,Maureen Gastineau,Home Office,92,4,25.888599999999972,0.225,0.050126050420168065,3,0.0038083598,Lost,Standard newsletter + seasonal promotions,LOW
+BF-11275,Beth Fritzler,Corporate,57,3,25.870199999999997,0.15000000000000002,0.13375,2,,Lost,Standard newsletter + seasonal promotions,LOW
+NB-18580,Nicole Brennan,Corporate,1165,2,24.788800000000002,0.1,0.09,1,,At Risk,Re-engagement email: show personalized deals,LOW
+FW-14395,Fred Wasserman,Corporate,362,3,23.491300000000003,0.0,0.3033333333333333,2,,At Risk,Re-engagement email: show personalized deals,LOW
+PB-19210,Phillip Breyer,Corporate,688,2,21.897000000000002,0.1,0.17375000000000002,1,,At Risk,Re-engagement email: show personalized deals,LOW
+AS-10135,Adrian Shami,Home Office,41,2,21.8496,0.06666666666666667,0.3925,2,,Lost,Standard newsletter + seasonal promotions,LOW
+EM-14200,Evan Minnotte,Home Office,158,3,21.7721,0.125,0.2658035714285714,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+JM-15250,Janet Martin,Consumer,37,6,19.82350000000004,0.2894736842105263,-0.23477443609022555,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MS-17830,Melanie Seite,Consumer,452,4,19.431199999999997,0.18,0.20950000000000002,3,,At Risk,Re-engagement email: show personalized deals,LOW
+LB-16735,Larry Blacks,Consumer,48,3,18.6507,0.26666666666666666,0.041666666666666664,2,,Lost,Standard newsletter + seasonal promotions,LOW
+SP-20920,Susan Pistek,Consumer,70,6,14.692400000000003,0.2714285714285714,-0.07954931972789114,3,,Lost,Standard newsletter + seasonal promotions,LOW
+EB-13705,Ed Braxton,Corporate,48,9,13.621500000000005,0.25833333333333336,0.07941468253968254,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+GG-14650,Greg Guthrie,Corporate,43,9,12.698500000000008,0.15,0.15916666666666665,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LH-16750,Larry Hughes,Consumer,151,3,12.627699999999999,0.3666666666666667,-0.20972222222222223,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+AO-10810,Anthony O'Donnell,Corporate,501,1,12.096,0.2,0.075,1,,At Risk,Re-engagement email: show personalized deals,LOW
+BB-10990,Barry Blumstein,Corporate,105,5,11.583900000000007,0.2,-0.03500000000000004,3,,Lost,Standard newsletter + seasonal promotions,LOW
+TS-21505,Tony Sayre,Consumer,11,6,11.377899999999983,0.19285714285714287,-0.013749999999999997,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RC-19960,Ryan Crowe,Consumer,110,6,10.563300000000002,0.17272727272727273,0.21568181818181814,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RS-19870,Roy Skaria,Home Office,19,2,9.5838,0.06666666666666667,0.44083333333333335,3,,Lost,Standard newsletter + seasonal promotions,LOW
+GB-14530,George Bell,Corporate,62,11,7.837100000000003,0.16999999999999998,0.11308333333333331,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RE-19405,Ricardo Emerson,Consumer,1097,1,6.045,0.2,0.125,1,,At Risk,Re-engagement email: show personalized deals,LOW
+DL-12925,Daniel Lacy,Consumer,57,6,4.213200000000029,0.03571428571428571,0.2814285714285714,3,0.0034463806,Lost,Standard newsletter + seasonal promotions,LOW
+JG-15310,Jason Gross,Corporate,2,6,3.7976000000000063,0.2545454545454545,-0.16325757575757577,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CJ-11875,Carl Jackson,Corporate,365,1,1.652,0.2,0.0999999999999999,1,,At Risk,Re-engagement email: show personalized deals,LOW
+EB-13930,Eric Barreto,Consumer,161,5,0.6042000000000058,0.17142857142857143,0.11221088435374146,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+LD-16855,Lela Donovan,Corporate,552,1,0.4641,0.2,0.0875,1,,At Risk,Re-engagement email: show personalized deals,LOW
+RH-19555,Ritsa Hightower,Consumer,519,2,0.30570000000000164,0.5333333333333333,-0.4763888888888889,1,,At Risk,Re-engagement email: show personalized deals,LOW
+KS-16300,Karen Seio,Corporate,295,3,0.11099999999999888,0.275,-0.025416666666666643,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+JC-15340,Jasper Cacioppo,Consumer,114,4,-0.35560000000000036,0.22499999999999998,-0.0122916666666667,2,,Lost,Standard newsletter + seasonal promotions,LOW
+PL-18925,Paul Lucas,Home Office,15,5,-0.7527000000000026,0.25,-0.010312499999999995,2,0.0034240803,Lost,Standard newsletter + seasonal promotions,LOW
+MG-18205,Mitch Gastineau,Corporate,264,1,-1.2453,0.44999999999999996,-0.275,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+AH-10120,Adrian Hane,Home Office,60,7,-2.3145999999999773,0.23750000000000002,-0.035260416666666655,3,0.0016480897,Lost,Standard newsletter + seasonal promotions,LOW
+MD-17860,Michael Dominguez,Corporate,36,5,-4.040300000000002,0.2875,-0.10864583333333336,3,0.003729551,Lost,Standard newsletter + seasonal promotions,LOW
+AG-10330,Alex Grayson,Consumer,8,5,-5.137100000000006,0.23333333333333334,-0.0027777777777778325,2,0.0036082133,Lost,Standard newsletter + seasonal promotions,LOW
+GH-14665,Greg Hansen,Consumer,2,2,-5.810200000000001,0.24,0.009313725490196106,2,,Lost,Standard newsletter + seasonal promotions,LOW
+ON-18715,Odella Nelson,Corporate,410,9,-5.88900000000001,0.16,0.1317222222222222,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+GT-14755,Guy Thornton,Consumer,34,4,-6.139200000000002,0.2,-0.030714285714285746,3,,Lost,Standard newsletter + seasonal promotions,LOW
+AG-10765,Anthony Garverick,Home Office,77,4,-8.431000000000001,0.45999999999999996,-0.6039999999999999,3,,Lost,Standard newsletter + seasonal promotions,LOW
+NS-18505,Neola Schneider,Consumer,6,4,-12.303999999999997,0.20666666666666667,0.1332936507936508,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JH-15910,Jonathan Howell,Consumer,41,7,-13.554499999999996,0.14444444444444446,0.14361111111111108,3,,Lost,Standard newsletter + seasonal promotions,LOW
+HF-14995,Herbert Flentye,Consumer,21,7,-13.876799999999989,0.13157894736842105,0.18945492072427053,3,,Lost,Standard newsletter + seasonal promotions,LOW
+BS-11380,Bill Stewart,Corporate,28,5,-17.532200000000024,0.27692307692307694,-0.09948717948717947,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JF-15490,Jeremy Farry,Consumer,121,11,-18.06730000000001,0.14666666666666667,0.13116666666666663,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SW-20245,Scot Wooten,Consumer,81,7,-19.60620000000001,0.25999999999999995,-0.1053888888888889,3,,Lost,Standard newsletter + seasonal promotions,LOW
+PT-19090,Pete Takahito,Consumer,71,4,-20.0508,0.37142857142857144,-0.39107142857142857,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SJ-20215,Sarah Jordon,Consumer,29,6,-23.5137,0.37,-0.2685119047619048,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MT-18070,Michelle Tran,Home Office,203,4,-23.676300000000005,0.2427272727272727,-0.10180481283422456,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+JH-15430,Jennifer Halladay,Consumer,5,4,-24.077100000000005,0.31428571428571433,0.04261904761904758,2,,Lost,Standard newsletter + seasonal promotions,LOW
+NR-18550,Nick Radford,Consumer,210,5,-25.148799999999966,0.22307692307692306,-0.016858974358974356,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+JW-15955,Joni Wasserman,Consumer,5,7,-29.575899999999987,0.08181818181818182,0.17159090909090907,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DO-13435,Denny Ordway,Consumer,133,9,-38.90860000000001,0.15769230769230771,0.16417832167832166,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+LB-16795,Laurel Beltran,Home Office,152,8,-40.13219999999996,0.23478260869565215,-0.04679089026915113,3,0.0009767333,Loyal,Upsell to higher-margin categories (Technology),LOW
+DP-13165,David Philippe,Consumer,812,2,-40.93759999999999,0.15000000000000002,0.19437500000000002,3,,At Risk,Re-engagement email: show personalized deals,LOW
+CM-11935,Carlos Meador,Consumer,708,2,-43.732400000000005,0.2,0.15624999999999997,3,,At Risk,Re-engagement email: show personalized deals,LOW
+LM-17065,Liz MacKendrick,Consumer,391,5,-44.87799999999999,0.05714285714285715,0.1657142857142857,3,,At Risk,Re-engagement email: show personalized deals,LOW
+PO-19195,Phillina Ober,Home Office,86,5,-49.70089999999999,0.19,0.032357142857142834,3,,Lost,Standard newsletter + seasonal promotions,LOW
+VG-21805,Vivek Grady,Corporate,286,5,-52.333,0.10000000000000002,0.2208333333333333,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+EA-14035,Erin Ashbrook,Corporate,152,13,-52.74059999999998,0.3,-0.05994761904761907,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DL-13495,Dionis Lloyd,Corporate,76,8,-52.78799999999997,0.05000000000000001,0.2764583333333333,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+JS-15685,Jim Sink,Corporate,42,4,-54.8692,0.20909090909090908,0.06681818181818179,3,0.0047335355,Lost,Standard newsletter + seasonal promotions,LOW
+BW-11065,Barry Weirich,Consumer,212,3,-58.28659999999999,0.13333333333333333,0.16166666666666668,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+AC-10420,Alyssa Crouse,Corporate,232,3,-62.1342,0.32,-0.19250000000000003,2,,Lost,Dormant reactivation: survey + discount offer,LOW
+BK-11260,Berenike Kampe,Consumer,77,6,-63.764399999999995,0.20625000000000002,-0.12093750000000003,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MC-18100,Mick Crebagga,Consumer,41,10,-64.1668,0.26842105263157895,-0.16150375939849623,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+RR-19315,Ralph Ritter,Consumer,19,2,-73.835,0.27499999999999997,-0.014642857142857131,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SS-20875,Sung Shariari,Consumer,120,5,-75.586,0.24000000000000002,0.029944444444444447,3,,Lost,Standard newsletter + seasonal promotions,LOW
+ML-17410,Maris LaWare,Consumer,54,6,-76.17550000000003,0.16666666666666666,0.14447619047619048,3,,Lost,Standard newsletter + seasonal promotions,LOW
+BT-11440,Bobby Trafton,Consumer,560,4,-77.5256,0.15714285714285717,0.06119047619047617,2,,At Risk,Re-engagement email: show personalized deals,LOW
+EB-13750,Edward Becker,Corporate,35,10,-80.28599999999999,0.145,0.11763888888888888,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SO-20335,Sean O'Donnell,Consumer,29,6,-81.0858,0.1366666666666667,0.18990740740740739,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MO-17950,Michael Oakman,Consumer,180,2,-82.0074,0.35000000000000003,-0.646875,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+DW-13195,David Wiener,Corporate,69,6,-86.87379999999999,0.24444444444444446,0.011626984126984121,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MG-18145,Mike Gockenbach,Consumer,84,4,-93.603,0.1875,0.0057589285714285815,3,,Lost,Standard newsletter + seasonal promotions,LOW
+EH-14005,Erica Hernandez,Home Office,2,7,-94.14079999999997,0.17272727272727273,0.20265151515151514,3,,Lost,Standard newsletter + seasonal promotions,LOW
+GH-14485,Gene Hale,Corporate,387,2,-95.4498,0.4666666666666666,-0.5458333333333334,2,,At Risk,Re-engagement email: show personalized deals,LOW
+VF-21715,Vicky Freymann,Home Office,13,5,-96.27799999999999,0.06363636363636363,0.2894155844155844,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JH-16180,Justin Hirsh,Consumer,404,4,-96.95300000000002,0.22000000000000003,-0.06833333333333333,2,,At Risk,Re-engagement email: show personalized deals,LOW
+AR-10405,Allen Rosenblatt,Corporate,125,5,-98.7646,0.09999999999999999,0.2039285714285714,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+AW-10930,Arthur Wiediger,Home Office,46,7,-104.5486,0.30625,-0.25370535714285714,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DK-12985,Darren Koutras,Consumer,7,5,-107.35379999999998,0.1625,0.0534375,3,,Lost,Standard newsletter + seasonal promotions,LOW
+BS-11755,Bruce Stewart,Consumer,1,7,-113.29840000000003,0.13214285714285715,0.15259103641456578,3,0.0011473475,Lost,Standard newsletter + seasonal promotions,LOW
+SP-20545,Sibella Parks,Corporate,327,6,-118.77570000000001,0.26,-0.26975000000000005,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+CS-11950,Carlos Soltero,Consumer,25,11,-126.4223,0.2636363636363636,-0.10496212121212123,3,0.001009802,Loyal,Upsell to higher-margin categories (Technology),LOW
+HZ-14950,Henia Zydlo,Consumer,35,5,-130.3879,0.19999999999999998,0.014999999999999966,3,,Lost,Standard newsletter + seasonal promotions,LOW
+EM-13810,Eleni McCrary,Corporate,132,5,-133.8275,0.14285714285714285,0.15761904761904758,3,0.004517658,Lost,Dormant reactivation: survey + discount offer,LOW
+PS-18760,Pamela Stobb,Consumer,107,6,-134.441,0.22380952380952382,-0.002528344671201797,3,,Lost,Standard newsletter + seasonal promotions,LOW
+TH-21100,Thea Hendricks,Consumer,344,5,-135.2125,0.17142857142857146,0.16297619047619047,3,,At Risk,Re-engagement email: show personalized deals,LOW
+TB-21595,Troy Blackwell,Consumer,285,5,-136.4091,0.2714285714285714,-0.03833333333333332,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+SH-20395,Shahid Hopkins,Consumer,23,10,-144.5229,0.23333333333333334,-0.004333333333333344,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+KN-16390,Katherine Nockton,Corporate,19,9,-151.1518,0.21764705882352942,0.02756302521008404,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AG-10525,Andy Gerbode,Corporate,845,4,-152.7613,0.15555555555555556,0.1762037037037037,3,,At Risk,Re-engagement email: show personalized deals,LOW
+AF-10885,Art Foster,Consumer,415,4,-163.1175,0.2571428571428572,-0.12190476190476189,3,,At Risk,Re-engagement email: show personalized deals,LOW
+RB-19330,Randy Bradley,Consumer,68,2,-164.40619999999998,0.3166666666666667,-0.2592261904761904,2,,Lost,Standard newsletter + seasonal promotions,LOW
+JS-15595,Jill Stevenson,Corporate,119,4,-175.54899999999998,0.3125,-0.33406250000000004,3,,Lost,Standard newsletter + seasonal promotions,LOW
+KL-16555,Kelly Lampkin,Corporate,16,8,-182.78130000000002,0.29545454545454547,-0.16619588744588745,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TS-21340,Toby Swindell,Consumer,226,5,-184.97889999999998,0.2833333333333333,-0.09645833333333335,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+BP-11230,Benjamin Patterson,Consumer,39,5,-197.2695,0.06666666666666667,0.2883333333333333,3,,Lost,Standard newsletter + seasonal promotions,LOW
+LC-16870,Lena Cacioppo,Consumer,27,8,-202.3223,0.2413793103448276,-0.14887931034482763,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+CD-11980,Carol Darley,Consumer,54,3,-206.7172,0.43333333333333335,-0.6758333333333334,3,0.0059821755,Lost,Standard newsletter + seasonal promotions,LOW
+JL-15130,Jack Lebron,Consumer,8,6,-207.79559999999998,0.26666666666666666,-0.012847222222222223,3,,Lost,Standard newsletter + seasonal promotions,LOW
+AR-10345,Alex Russell,Corporate,111,4,-221.0544,0.26,-0.018690476190476164,2,0.006157758,Lost,Standard newsletter + seasonal promotions,LOW
+VT-21700,Valerie Takahito,Home Office,1000,2,-224.08889999999997,0.3333333333333333,-0.10740740740740738,3,,At Risk,Re-engagement email: show personalized deals,LOW
+NS-18640,Noel Staavos,Corporate,174,13,-234.7714,0.21538461538461537,0.024198717948717936,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SM-20905,Susan MacKendrick,Consumer,606,1,-237.2885,0.2833333333333333,-0.053472222222222254,2,,At Risk,Re-engagement email: show personalized deals,LOW
+MD-17350,Maribeth Dona,Consumer,117,7,-241.94999999999996,0.32941176470588235,-0.16742296918767505,3,0.0010034465,Lost,Standard newsletter + seasonal promotions,LOW
+LH-17020,Lisa Hazard,Consumer,239,4,-242.73989999999998,0.4666666666666666,-0.5811111111111111,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+AG-10675,Anna Gayman,Consumer,97,7,-246.42570000000003,0.16133333333333333,0.13727170868347335,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MC-17635,Matthew Clasen,Corporate,189,4,-247.94350000000003,0.17500000000000002,0.035312499999999976,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+TH-21115,Thea Hudgings,Corporate,58,4,-252.5539,0.23333333333333334,0.06604497354497355,3,0.004689359,Lost,Standard newsletter + seasonal promotions,LOW
+AS-10045,Aaron Smayling,Corporate,88,7,-253.57459999999998,0.355,-0.11943627450980392,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DF-13135,David Flashing,Consumer,700,3,-259.3097,0.2833333333333334,-0.17416666666666666,2,,At Risk,Re-engagement email: show personalized deals,LOW
+VS-21820,Vivek Sundaresam,Consumer,221,4,-262.8093,0.475,-0.6292410714285714,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+JD-15790,John Dryer,Consumer,117,5,-266.55249999999995,0.17142857142857146,0.1782142857142857,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DW-13585,Dorothy Wardle,Corporate,242,7,-266.8966,0.17,0.12274999999999998,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+GW-14605,Giulietta Weimer,Consumer,28,7,-268.54229999999995,0.15555555555555556,0.0674867724867725,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SP-20620,Stefania Perrino,Corporate,47,9,-270.42819999999995,0.25,-0.014250992063492061,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AB-10600,Ann Blume,Corporate,50,4,-274.9604,0.375,-0.33479166666666665,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JB-15925,Joni Blumstein,Consumer,737,3,-286.9808,0.3,0.015937499999999986,3,,At Risk,Re-engagement email: show personalized deals,LOW
+BF-11005,Barry Franz,Home Office,39,4,-291.38109999999995,0.18,0.002499999999999991,3,0.0064310725,Lost,Standard newsletter + seasonal promotions,LOW
+TS-21610,Troy Staebel,Consumer,55,7,-294.6981,0.3727272727272727,-0.2546212121212121,2,,Lost,Standard newsletter + seasonal promotions,LOW
+ER-13855,Elpida Rittenbach,Corporate,421,3,-295.7398,0.2,-0.01366666666666667,2,,At Risk,Re-engagement email: show personalized deals,LOW
+CS-12490,Cindy Schnelling,Corporate,424,4,-302.8761,0.25,0.027457912457912455,3,,At Risk,Re-engagement email: show personalized deals,LOW
+JS-16030,Joy Smith,Consumer,28,6,-311.25749999999994,0.18333333333333332,0.00115079365079364,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SC-20020,Sam Craven,Consumer,781,5,-317.0508,0.21882352941176472,-0.06875144175317187,3,,At Risk,Re-engagement email: show personalized deals,LOW
+LS-16945,Linda Southworth,Corporate,178,6,-318.77369999999996,0.3071428571428571,-0.21065476190476187,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+BP-11290,Beth Paige,Consumer,12,7,-319.0637,0.3,-0.025818452380952386,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JS-15940,Joni Sundaresam,Home Office,463,5,-327.9336,0.3375,-0.205625,3,,At Risk,Re-engagement email: show personalized deals,LOW
+CK-12760,Cyma Kinney,Corporate,82,9,-338.4311,0.15,0.08660714285714284,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MF-17665,Maureen Fritzler,Corporate,421,5,-341.52650000000006,0.13749999999999998,0.1823958333333333,2,,At Risk,Re-engagement email: show personalized deals,LOW
+CS-12400,Christopher Schild,Home Office,2,9,-342.80330000000004,0.21428571428571427,0.008593073593073606,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+NC-18625,Noah Childs,Corporate,204,5,-359.02099999999996,0.24444444444444446,0.06120370370370373,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+AA-10315,Alex Avila,Consumer,184,5,-362.8825,0.09090909090909091,0.265,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+MY-18295,Muhammed Yedwab,Corporate,71,11,-371.7111,0.2438095238095238,-0.0007162865146058525,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+AH-10195,Alan Haines,Corporate,55,4,-378.5509,0.35,-0.2406994047619048,3,,Lost,Standard newsletter + seasonal promotions,LOW
+LR-17035,Lisa Ryan,Corporate,132,5,-382.8079,0.27499999999999997,-0.2020833333333333,3,0.0039011512,Lost,Dormant reactivation: survey + discount offer,LOW
+CM-12160,Charles McCrossin,Consumer,26,6,-394.3686,0.24285714285714285,-0.15166666666666664,2,,Lost,Standard newsletter + seasonal promotions,LOW
+MG-17695,Maureen Gnade,Consumer,555,3,-398.79319999999996,0.2571428571428572,-0.2864285714285714,2,,At Risk,Re-engagement email: show personalized deals,LOW
+MK-17905,Michael Kennedy,Corporate,28,8,-405.3559,0.3,-0.17357843137254902,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+DV-13045,Darrin Van Huff,Corporate,19,5,-427.184,0.17222222222222222,0.08515512265512266,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RA-19945,Ryan Akin,Consumer,61,5,-445.695,0.31666666666666665,-0.1691065416065416,3,,Lost,Standard newsletter + seasonal promotions,LOW
+MG-17875,Michael Grace,Home Office,116,5,-470.7684,0.24285714285714288,-0.15178571428571427,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RB-19795,Ross Baird,Home Office,32,8,-516.4757000000001,0.2529411764705882,0.03171568627450981,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+MM-18055,Michelle Moray,Consumer,61,8,-520.3443,0.21052631578947367,0.009467418546365902,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TH-21550,Tracy Hopkins,Home Office,72,7,-571.9678,0.06923076923076922,0.2465384615384615,3,,Lost,Standard newsletter + seasonal promotions,LOW
+GH-14410,Gary Hansen,Home Office,75,9,-576.8335,0.27058823529411763,-0.16476190476190478,2,0.000996414,Loyal,Upsell to higher-margin categories (Technology),LOW
+JH-15985,Joseph Holt,Consumer,29,6,-644.6982,0.08571428571428573,0.26958333333333334,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SC-20770,Stewart Carmichael,Corporate,41,7,-671.1874,0.30476190476190473,-0.1530612244897959,3,,Lost,Standard newsletter + seasonal promotions,LOW
+TN-21040,Tanja Norvell,Home Office,90,7,-692.0452,0.19999999999999998,0.004097222222222227,3,,Lost,Standard newsletter + seasonal promotions,LOW
+BG-11035,Barry Gonzalez,Consumer,28,8,-711.4274,0.19166666666666665,0.051527777777777756,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SN-20560,Skye Norling,Home Office,111,6,-716.8565000000001,0.1733333333333333,0.1198333333333333,3,,Lost,Standard newsletter + seasonal promotions,LOW
+JR-15670,Jim Radford,Consumer,593,2,-785.1645,0.3,-0.40694444444444455,2,,At Risk,Re-engagement email: show personalized deals,LOW
+JA-15970,Joseph Airdo,Consumer,92,8,-819.4217000000001,0.2125,0.09429398148148145,3,0.0011068096,Lost,Standard newsletter + seasonal promotions,LOW
+VW-21775,Victoria Wilson,Corporate,28,10,-874.6645,0.1611111111111111,0.11594576719576717,3,0.0012880046,Loyal,Upsell to higher-margin categories (Technology),LOW
+OT-18730,Olvera Toch,Consumer,65,5,-925.1203,0.15999999999999998,0.0855833333333333,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SS-20410,Shahid Shariari,Consumer,110,6,-1010.9738,0.25833333333333336,-0.18895833333333334,3,0.0018341691,Lost,Standard newsletter + seasonal promotions,LOW
+VP-21760,Victoria Pisteka,Corporate,75,7,-1018.7768,0.17142857142857143,0.08495748299319728,3,,Lost,Standard newsletter + seasonal promotions,LOW
+ZC-21910,Zuschuss Carroll,Consumer,54,13,-1032.1490000000001,0.25483870967741934,-0.20102918586789556,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TP-21415,Tom Prescott,Consumer,104,5,-1087.3898,0.462,-0.7791092436974789,3,,Lost,Standard newsletter + seasonal promotions,LOW
+RO-19780,Rose O'Brian,Consumer,35,7,-1262.5716000000002,0.2916666666666667,-0.17677579365079366,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DB-13120,David Bremer,Corporate,48,7,-1421.7692,0.14285714285714285,0.1526785714285714,3,,Lost,Standard newsletter + seasonal promotions,LOW
+DC-12850,Dan Campbell,Consumer,37,9,-1441.6312999999998,0.21111111111111114,0.047546296296296295,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+TB-21520,Tracy Blumstein,Consumer,107,9,-1603.0451,0.265,-0.008958333333333368,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+BM-11140,Becky Martin,Consumer,307,4,-1659.9580999999998,0.16875,-0.007247023809523828,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+NF-18385,Natalie Fritzler,Consumer,79,7,-1695.9714,0.25,-0.06669217687074828,3,0.0010226209,Lost,Standard newsletter + seasonal promotions,LOW
+CP-12340,Christine Phan,Corporate,160,8,-1850.3029000000001,0.21333333333333335,0.013055555555555537,3,,Lost,Dormant reactivation: survey + discount offer,LOW
+SM-20320,Sean Miller,Home Office,79,5,-1980.7393,0.24666666666666667,0.07777777777777775,3,,Lost,Standard newsletter + seasonal promotions,LOW
+SB-20290,Sean Braxton,Corporate,47,7,-2082.7451,0.24117647058823527,-0.068578431372549,3,,Lost,Standard newsletter + seasonal promotions,LOW
+NC-18415,Nathan Cano,Consumer,41,6,-2204.8072,0.2642857142857143,-0.0064540816326530736,2,,Lost,Standard newsletter + seasonal promotions,LOW
+HG-14965,Henry Goldwyn,Corporate,23,12,-2797.9635000000003,0.17058823529411765,-0.005343137254901953,3,,Loyal,Upsell to higher-margin categories (Technology),LOW
+SR-20425,Sharelle Roach,Home Office,8,5,-3333.9144,0.36666666666666664,-0.29169312169312167,3,,Lost,Standard newsletter + seasonal promotions,LOW
+LF-17185,Luke Foster,Consumer,22,7,-3583.977,0.31875,-0.36989583333333337,3,,Lost,Standard newsletter + seasonal promotions,LOW
+GT-14635,Grant Thornton,Corporate,56,3,-4108.6589,0.25,0.03416666666666666,3,,Lost,Standard newsletter + seasonal promotions,LOW
+CS-12505,Cindy Stewart,Consumer,58,6,-6626.389499999999,0.19999999999999998,0.03324074074074071,3,,Lost,Standard newsletter + seasonal promotions,LOW

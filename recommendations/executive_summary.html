@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Profit Optimization — Executive Summary</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 40px; color: #2c2c2c; }
+  h1   { color: #3A86FF; border-bottom: 2px solid #3A86FF; padding-bottom: 8px; }
+  h2   { color: #3A86FF; margin-top: 30px; }
+  .kpi-grid { display: flex; gap: 20px; flex-wrap: wrap; margin: 20px 0; }
+  .kpi { background: #f4f7fb; border-left: 4px solid #3A86FF;
+           padding: 12px 20px; border-radius: 4px; min-width: 160px; }
+  .kpi-val { font-size: 22px; font-weight: bold; color: #3A86FF; }
+  .kpi-lbl { font-size: 12px; color: #666; margin-top: 2px; }
+  table { border-collapse: collapse; width: 100%; margin-top: 10px; font-size: 13px; }
+  th { background: #3A86FF; color: white; padding: 8px 12px; text-align: left; }
+  td { padding: 7px 12px; border-bottom: 1px solid #eee; }
+  tr:nth-child(even) { background: #f9f9f9; }
+  .critical { color: #FF3A5C; font-weight: bold; }
+  .good     { color: #06D6A0; font-weight: bold; }
+  .warning  { color: #FFB703; font-weight: bold; }
+  .section  { background: #f9f9f9; padding: 14px 20px; border-radius: 6px;
+                margin: 12px 0; border-left: 3px solid #06D6A0; }
+</style>
+</head>
+<body>
+<h1>🏪 Retail Profit Optimization System — Executive Summary</h1>
+<p>Generated from Superstore dataset | 9,986 transactions | 2014-01-03 to 2017-12-30</p>
+
+<h2>📊 Business Snapshot</h2>
+<div class="kpi-grid">
+  <div class="kpi"><div class="kpi-val">$2,295,510</div><div class="kpi-lbl">Total Revenue</div></div>
+  <div class="kpi"><div class="kpi-val">$286,014</div><div class="kpi-lbl">Total Profit</div></div>
+  <div class="kpi"><div class="kpi-val">12.0%</div><div class="kpi-lbl">Avg Profit Margin</div></div>
+  <div class="kpi"><div class="kpi-val">5,009</div><div class="kpi-lbl">Total Orders</div></div>
+  <div class="kpi"><div class="kpi-val">793</div><div class="kpi-lbl">Unique Customers</div></div>
+</div>
+
+<h2>💡 Profit Recovery Opportunities</h2>
+<div class="section">
+  <b>Recoverable Profit from Loss-Making Lines:</b>
+  <span class="critical"> $156,119</span><br>
+  <b>Profit Drained by Excessive Discounts (>30%):</b>
+  <span class="warning"> $125,007</span><br>
+  <b>Combined Recovery Potential:</b>
+  <span class="good"> $281,126</span>
+</div>
+
+<h2>🎯 Marketing Actions — Top Priority Customers</h2>
+<table>
+  <tr><th>Customer</th><th>Segment</th><th>RFM Label</th><th>Churn Risk</th><th>Recommended Action</th></tr>
+  <tr><td>Tamara Chand</td><td>Corporate</td><td>Champions</td><td class="good">nan%</td><td>VIP loyalty rewards + cross-sell premium products</td></tr><tr><td>Raymond Buch</td><td>Consumer</td><td>Champions</td><td class="good">0%</td><td>VIP loyalty rewards + cross-sell premium products</td></tr><tr><td>Sanjit Chand</td><td>Consumer</td><td>Champions</td><td class="good">nan%</td><td>VIP loyalty rewards + cross-sell premium products</td></tr><tr><td>Hunter Lopez</td><td>Consumer</td><td>Champions</td><td class="good">1%</td><td>VIP loyalty rewards + cross-sell premium products</td></tr><tr><td>Adrian Barton</td><td>Consumer</td><td>Champions</td><td class="good">nan%</td><td>VIP loyalty rewards + cross-sell premium products</td></tr><tr><td>Tom Ashbrook</td><td>Home Office</td><td>Champions</td><td class="good">nan%</td><td>VIP loyalty rewards + cross-sell premium products</td></tr><tr><td>Christopher Martinez</td><td>Consumer</td><td>Champions</td><td class="good">nan%</td><td>VIP loyalty rewards + cross-sell premium products</td></tr><tr><td>Tom Boeckenhauer</td><td>Consumer</td><td>Loyal</td><td class="critical">99%</td><td>Upsell to higher-margin categories (Technology)</td></tr><tr><td>Steven Roelle</td><td>Home Office</td><td>Loyal</td><td class="critical">100%</td><td>Upsell to higher-margin categories (Technology)</td></tr><tr><td>Shirley Daniels</td><td>Home Office</td><td>Loyal</td><td class="critical">99%</td><td>Upsell to higher-margin categories (Technology)</td></tr>
+</table>
+
+<h2>💰 Pricing Alerts</h2>
+<table>
+  <tr><th>Sub-Category</th><th>Avg Margin</th><th>Avg Discount</th><th>Urgency</th><th>Action</th></tr>
+  <tr><td>Tables</td><td class="critical">-14.8%</td><td>26.1%</td><td class="critical">CRITICAL</td><td>STOP DISCOUNTING — margin negative; set floor price</td></tr><tr><td>Bookcases</td><td class="critical">-12.7%</td><td>21.1%</td><td class="critical">CRITICAL</td><td>STOP DISCOUNTING — margin negative; set floor price</td></tr><tr><td>Machines</td><td class="critical">-7.2%</td><td>30.6%</td><td class="critical">CRITICAL</td><td>STOP DISCOUNTING — margin negative; set floor price</td></tr><tr><td>Appliances</td><td class="critical">-15.7%</td><td>16.7%</td><td class="critical">CRITICAL</td><td>STOP DISCOUNTING — margin negative; set floor price</td></tr><tr><td>Binders</td><td class="critical">-20.0%</td><td>37.3%</td><td class="critical">CRITICAL</td><td>STOP DISCOUNTING — margin negative; set floor price</td></tr><tr><td>Chairs</td><td class="warning">4.4%</td><td>17.0%</td><td class="warning">HIGH</td><td>Maintain current pricing; monitor quarterly</td></tr>
+</table>
+
+<h2>📦 Inventory Alerts</h2>
+<table>
+  <tr><th>Sub-Category</th><th>Monthly Avg Qty</th><th>Reorder Point</th><th>Safety Stock</th><th>Action</th></tr>
+  <tr><td>Tables</td><td>3.9</td><td>8</td><td>4</td><td>LIQUIDATE or discontinue — loss-making</td></tr><tr><td>Bookcases</td><td>3.8</td><td>8</td><td>4</td><td>LIQUIDATE or discontinue — loss-making</td></tr><tr><td>Supplies</td><td>3.4</td><td>6</td><td>3</td><td>MAINTAIN — review reorder point monthly</td></tr><tr><td>Fasteners</td><td>4.2</td><td>8</td><td>4</td><td>INCREASE stock — high margin, ensure availability</td></tr><tr><td>Machines</td><td>3.8</td><td>8</td><td>4</td><td>LIQUIDATE or discontinue — loss-making</td></tr><tr><td>Labels</td><td>3.8</td><td>8</td><td>4</td><td>INCREASE stock — high margin, ensure availability</td></tr><tr><td>Art</td><td>3.8</td><td>8</td><td>4</td><td>INCREASE stock — high margin, ensure availability</td></tr><tr><td>Envelopes</td><td>3.6</td><td>7</td><td>3</td><td>INCREASE stock — high margin, ensure availability</td></tr><tr><td>Furnishings</td><td>3.7</td><td>8</td><td>4</td><td>MAINTAIN — review reorder point monthly</td></tr><tr><td>Appliances</td><td>3.7</td><td>8</td><td>4</td><td>LIQUIDATE or discontinue — loss-making</td></tr>
+</table>
+
+<h2>📡 Channel Recommendations</h2>
+<table>
+  <tr><th>Channel</th><th>Revenue</th><th>Profit</th><th>Avg Margin</th><th>Action</th></tr>
+  <tr><td>mobile_app</td><td>$646,698</td><td>$75,233</td><td>11.5%</td><td>MAINTAIN — healthy contribution; optimize AOV</td></tr><tr><td>store</td><td>$578,747</td><td>$75,985</td><td>11.5%</td><td>MAINTAIN — healthy contribution; optimize AOV</td></tr><tr><td>website</td><td>$1,070,064</td><td>$134,796</td><td>12.6%</td><td>MAINTAIN — healthy contribution; optimize AOV</td></tr>
+</table>
+
+<h2>📁 Output Files Generated</h2>
+<ul>
+  <li>data/recommendations/marketing_actions.csv</li>
+  <li>data/recommendations/pricing_recommendations.csv</li>
+  <li>data/recommendations/inventory_recommendations.csv</li>
+  <li>data/recommendations/channel_recommendations.csv</li>
+  <li>data/powerbi_exports/  (5 tables for Power BI)</li>
+  <li>data/models/           (6 trained ML models)</li>
+  <li>data/evaluation/       (ROC, SHAP, lift charts)</li>
+</ul>
+</body></html>

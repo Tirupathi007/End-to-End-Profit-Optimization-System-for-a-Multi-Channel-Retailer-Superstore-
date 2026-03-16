@@ -1,0 +1,45 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║  POWER BI SETUP STEPS                                       ║
+╚══════════════════════════════════════════════════════════════╝
+
+1. Open Power BI Desktop → Get Data → Text/CSV
+   Import all 5 files from data/powerbi_exports/:
+   • fact_sales.csv
+   • dim_calendar.csv
+   • dim_customer_enriched.csv
+   • dim_product_enriched.csv
+   • monthly_kpi.csv
+
+2. DATA MODEL (Manage Relationships):
+   fact_sales[order_date]   → dim_calendar[Date]        (many:1)
+   fact_sales[customer_id]  → dim_customer_enriched[customer_id] (many:1)
+   fact_sales[product_id]   → dim_product_enriched[product_id]   (many:1)
+
+3. PAGE 1 — Executive Overview:
+   • KPI Cards : Total Revenue | Total Profit | Avg Margin % | Total Orders
+   • Line chart : Running Total Revenue by Month (color by Year)
+   • Bar chart  : Profit by Category + Sub-Category (drill-down)
+   • Pie chart  : Revenue by Channel
+   • Slicer     : Year | Quarter | Region | Segment
+
+4. PAGE 2 — Customer Intelligence:
+   • KPI Cards : Active Customers | High Risk Churn | Avg CLV
+   • Scatter    : Frequency vs Monetary, colored by segment_label
+   • Bar chart  : Top 20 Customers by Total Profit
+   • Donut      : RFM segment distribution
+   • Table      : Customer name | Segment | Revenue | Churn Prob | Last Order
+
+5. PAGE 3 — Operations & Risk:
+   • KPI Cards : Avg Ship Days | Loss-Making Orders % | Discount Ratio %
+   • Bar chart  : Profit by Sub-Category (red for negative)
+   • Matrix     : Region × Channel revenue/profit
+   • Gauge      : Avg Profit Margin vs 15% target
+   • Table      : Loss-making products with avg discount
+
+6. THEME:
+   File → Options → Report settings → Customize theme
+   Primary   : #3A86FF
+   Secondary : #06D6A0
+   Accent    : #FFB703
+   Danger    : #FF3A5C
