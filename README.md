@@ -82,22 +82,5 @@ python phase1_data/01_ingest_and_clean.py
 | Price Elasticity | Log-Log Regression | Price sensitivity | Dynamic pricing |
 | Demand Forecast | XGBoost Regressor | Monthly qty by SKU | Inventory reorder |
 
----
 
-## Power BI Setup
-
-1. Open Power BI Desktop
-2. Get Data → Text/CSV → import all files from `data/powerbi_exports/`
-3. Set relationships (see `06_powerbi_exports.py` → DASHBOARD_GUIDE)
-4. Paste DAX measures from `data/powerbi_exports/DAX_Measures.txt`
-
----
-
-## Interview Story Points
-
-- **Business problem**: Multi-channel retailer losing profit through excessive discounting and poor inventory decisions
-- **Data challenge**: Fragmented channel data, missing return labels (simulated), skewed margin distribution
-- **SQL**: Star schema design, RFM scoring in pure SQL using window functions (NTILE)
-- **Stats**: ANOVA showed channels differ significantly in margin; discount A/B test confirmed p<0.05 negative impact
-- **ML**: XGBoost churn model achieved AUC ~0.85; SHAP showed `recency` and `avg_margin` as top drivers
 - **Impact**: Identified $X recoverable profit from loss-making lines + high-discount orders
